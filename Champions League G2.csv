@@ -1,0 +1,728 @@
+ID,Jugador,Pais,Equipo,Posicion,Edad,Nacimiento,Partidos_jugados,Partidos_titular,Minutos_totales,90s,Tarjetas_amarillas,Tarjetas_rojas,Segundas_tarjetas_amarillas,Faltas_comprometidas,Faltas_pitadas,Fuera_de_juego
+1,Liel Abada,SCT,Celtic ,"FW,MF",20,2001,5,4,217,"2,41",0,0,0,0,3,1
+2,Oliver Abildgaard,SCT,Celtic ,MF,26,1996,2,0,63,"0,70",0,0,0,0,0,0
+3,Mohammad Abu Fani,IL,Maccabi Haifa,MF,24,1998,6,4,400,"4,44",1,0,0,13,12,0
+4,Francesco Acerbi,IT,Inter ,DF,34,1988,12,10,921,"10,23",1,0,0,6,9,1
+5,Marcos Acuña,ES,Sevilla ,"DF,MF",30,1991,4,3,219,"2,43",0,0,0,8,0,0
+6,Junior Adamu,AT,RB Salzburg,FW,21,2001,6,2,204,"2,27",1,0,0,6,1,4
+7,Antonio Adán,PT,Sporting CP,GK,35,1987,5,5,382,"4,24",0,1,0,1,0,0
+8,Arijan Ademi,HR,Dinamo Zagreb,MF,31,1991,6,6,471,"5,23",2,0,0,3,3,0
+9,Karim Adeyemi,DE,Dortmund ,"FW,MF",20,2002,6,5,376,"4,18",1,0,0,7,6,0
+10,Amine Adli,DE,Leverkusen ,"FW,MF",22,2000,4,1,121,"1,34",0,0,0,4,1,3
+11,Manuel Akanji,ENG,Manchester City,DF,27,1995,11,10,945,"10,50",2,0,0,9,5,0
+12,Nathan Aké,ENG,Manchester City,DF,27,1995,8,7,608,"6,76",1,0,0,5,1,0
+13,David Alaba,ES,Real Madrid,DF,30,1992,11,9,711,"7,90",0,0,0,3,0,0
+14,Lucas Alario,DE,Eint Frankfurt,"FW,MF",29,1992,2,0,20,"0,22",0,0,0,0,0,1
+15,Jordi Alba,ES,Barcelona ,DF,33,1989,2,2,146,"1,62",0,0,0,0,0,0
+16,Thiago Alcántara,ENG,Liverpool ,MF,31,1991,5,3,306,"3,40",0,0,0,4,6,0
+17,Trent Alexander-Arnold,ENG,Liverpool ,DF,23,1998,7,7,625,"6,94",2,0,0,2,2,0
+18,Sotiris Alexandropoulos,PT,Sporting CP,MF,20,2001,3,0,121,"1,34",0,0,0,0,3,0
+19,Faride Alidou,DE,Eint Frankfurt,"DF,FW",21,2001,5,0,73,"0,81",0,0,0,1,1,0
+20,Alisson,ENG,Liverpool ,GK,29,1992,8,8,720,"8,00",0,0,0,0,0,0
+21,Marcos Alonso,ES,Barcelona ,DF,31,1990,5,5,403,"4,48",0,0,0,3,2,0
+22,Éder Álvarez Balanta,BE,Club Brugge,"MF,FW",29,1993,4,0,50,"0,56",0,0,0,2,2,0
+23,Edson Álvarez,NL,Ajax ,MF,24,1997,6,6,531,"5,90",2,0,0,12,4,0
+24,Julián Álvarez,ENG,Manchester City,FW,22,2000,10,4,474,"5,27",1,0,0,9,2,2
+25,Nadiem Amiri,DE,Leverkusen ,"MF,FW",25,1996,5,1,123,"1,37",0,0,0,2,0,0
+26,Robert Andrich,DE,Leverkusen ,MF,27,1994,5,5,407,"4,52",4,0,0,15,2,0
+27,Peter Ankersen,DK,FC Copenhagen,DF,31,1990,1,0,25,"0,28",0,0,0,0,0,0
+28,Ofri Arad,IL,Maccabi Haifa,"DF,MF",23,1998,2,0,22,"0,24",0,0,0,2,0,0
+29,Charles Aránguiz,DE,Leverkusen ,MF,33,1989,4,3,215,"2,39",0,0,0,3,0,0
+30,Henrique Araújo,PT,Benfica ,FW,20,2002,1,0,9,"0,10",0,0,0,0,0,0
+31,Ronald Araújo,ES,Barcelona ,DF,23,1999,1,1,90,"1,00",0,0,0,1,0,0
+32,Scott Arfield,SCT,Rangers ,MF,33,1988,4,3,267,"2,97",0,0,0,3,0,1
+33,Hákon Arnar Haraldsson,DK,FC Copenhagen,FW,19,2003,6,3,298,"3,31",0,0,0,4,8,1
+34,Kepa Arrizabalaga,ENG,Chelsea ,GK,27,1994,9,9,810,"9,00",2,0,0,0,0,0
+35,Arthur,PT,Sporting CP,"MF,FW",24,1998,3,1,111,"1,23",0,0,0,0,2,1
+36,Marco Asensio,ES,Real Madrid,"FW,MF",26,1996,12,2,324,"3,60",0,0,0,0,3,0
+37,Kristjan Asllani,IT,Inter ,MF,20,2002,5,1,129,"1,43",0,0,0,1,2,0
+38,Omer Atzili,IL,Maccabi Haifa,"FW,MF",29,1993,6,3,308,"3,42",3,0,0,10,4,1
+39,Pierre-Emerick Aubameyang,ENG,Chelsea ,FW,33,1989,6,6,403,"4,48",0,0,0,4,2,4
+40,Lynnt Audoor,BE,Club Brugge,MF,18,2003,1,0,11,"0,12",0,0,0,2,0,0
+41,Fredrik Aursnes,PT,Benfica ,"FW,MF",26,1995,10,7,620,"6,89",0,0,0,6,2,2
+42,Sardar Azmoun,DE,Leverkusen ,FW,27,1995,2,0,7,"0,08",0,0,0,0,0,1
+43,César Azpilicueta,ENG,Chelsea ,DF,32,1989,5,3,260,"2,89",0,0,0,4,4,0
+44,Youri Baas,NL,Ajax ,DF,19,2003,3,0,44,"0,49",0,0,0,0,0,0
+45,Alexander Bah,PT,Benfica ,DF,24,1997,8,8,654,"7,27",1,0,0,9,8,0
+46,Eric Bailly,FR,Marseille ,DF,28,1994,5,5,302,"3,36",2,0,0,4,4,0
+47,Stefan Bajcetic,ENG,Liverpool ,MF,17,2004,4,1,109,"1,21",0,0,0,2,0,0
+48,Mitchel Bakker,DE,Leverkusen ,"MF,DF",22,2000,5,4,338,"3,76",2,0,0,6,2,1
+49,Alejandro Balde,ES,Barcelona ,DF,18,2003,4,1,171,"1,90",0,0,0,1,4,0
+50,Leonardo Balerdi,FR,Marseille ,DF,23,1999,6,5,491,"5,46",1,0,0,4,2,0
+51,Fodé Ballo-Touré,IT,Milan ,"DF,MF",25,1997,4,1,135,"1,50",2,0,0,3,2,0
+52,Tommaso Barbieri,IT,Juventus ,MF,19,2002,1,0,3,"0,03",0,0,0,0,0,0
+53,Roony Bardghji,DK,FC Copenhagen,FW,16,2005,2,1,98,"1,09",0,0,0,0,0,0
+54,Nicolò Barella,IT,Inter ,MF,25,1997,12,12,991,"11,01",3,0,0,17,13,3
+55,Borna Barišić,SCT,Rangers ,DF,29,1992,6,5,465,"5,17",1,0,0,2,2,1
+56,Enzo Barrenechea,IT,Juventus ,DF,21,2001,1,0,3,"0,03",0,0,0,0,0,0
+57,Pablo Barrios,ES,Atlético Madrid,MF,19,2003,1,0,6,"0,07",0,0,0,0,0,0
+58,Calvin Bassey,NL,Ajax ,DF,22,1999,6,6,540,"6,00",1,0,0,3,8,0
+59,Fortune Bassey,CZ,Viktoria Plzeň,FW,23,1998,5,1,134,"1,49",0,0,0,0,0,0
+60,Alessandro Bastoni,IT,Inter ,DF,23,1999,12,12,983,"10,92",2,0,0,13,7,0
+61,Dylan Batubinsika,IL,Maccabi Haifa,DF,26,1996,5,5,450,"5,00",0,0,0,3,0,0
+62,Martin Baturina,HR,Dinamo Zagreb,MF,19,2003,5,0,60,"0,67",1,0,0,1,3,0
+63,Raoul Bellanova,IT,Inter ,"DF,MF",22,2000,3,1,120,"1,33",0,0,0,0,1,0
+64,Héctor Bellerín,ES,Barcelona ,DF,27,1995,2,2,180,"2,00",0,0,0,2,0,0
+65,Jude Bellingham,DE,Dortmund ,MF,19,2003,7,7,630,"7,00",2,0,0,6,17,0
+66,Ismaël Bennacer,IT,Milan ,MF,24,1997,10,9,585,"6,50",1,0,0,11,12,0
+67,Rodrigo Bentancur,ENG,Tottenham ,"MF,FW",25,1997,6,6,503,"5,59",2,0,0,8,3,0
+68,Karim Benzema,ES,Real Madrid,FW,34,1987,10,9,744,"8,27",0,0,0,4,2,3
+69,Steven Berghuis,NL,Ajax ,"MF,FW",30,1991,6,6,462,"5,13",1,0,0,3,4,2
+70,Steven Bergwijn,NL,Ajax ,FW,24,1997,6,6,519,"5,77",1,0,0,7,3,3
+71,Alexandro Bernabei,SCT,Celtic ,FW,21,2000,1,0,11,"0,12",0,0,0,0,0,0
+72,Bernardo,AT,RB Salzburg,DF,27,1995,4,2,274,"3,04",0,0,0,0,3,1
+73,Juan Bernat,FR,Paris S-G,DF,29,1993,5,3,275,"3,06",0,0,0,0,3,0
+74,Victor Bernth Kristiansen,DK,FC Copenhagen,"DF,MF",19,2002,6,5,483,"5,37",0,0,0,5,3,0
+75,Modou Biramé Ndiaye,CZ,Viktoria Plzeň,MF,25,1996,4,2,182,"2,02",1,0,0,1,4,0
+76,Yves Bissouma,ENG,Tottenham ,MF,25,1996,3,0,92,"1,02",0,0,0,0,0,0
+77,Janis Blaswich,DE,RB Leipzig,GK,31,1991,6,5,528,"5,87",0,0,0,0,0,0
+78,Daley Blind,NL,Ajax ,DF,32,1990,5,5,407,"4,52",0,0,0,4,0,1
+79,Petar Bočkaj,HR,Dinamo Zagreb,"DF,FW",26,1996,3,0,39,"0,43",0,0,0,0,2,0
+80,Nicolai Boilesen,DK,FC Copenhagen,DF,30,1992,2,1,100,"1,11",0,0,0,2,1,0
+81,Valerii Bondar,UA,Shakhtar ,DF,23,1999,6,6,540,"6,00",2,0,0,3,0,0
+82,Artem Bondarenko,UA,Shakhtar ,MF,21,2000,6,6,484,"5,38",1,0,0,6,3,0
+83,Leonardo Bonucci,IT,Juventus ,DF,35,1987,6,5,444,"4,93",0,0,0,6,1,0
+84,Gonçalo Borges,PT,Porto ,"MF,FW",21,2001,4,0,39,"0,43",1,0,0,2,1,0
+85,Rafael Borré,DE,Eint Frankfurt,FW,26,1995,8,1,228,"2,53",0,0,0,5,6,3
+86,Yassine Bounou,ES,Sevilla ,GK,31,1991,4,4,360,"4,00",1,0,0,0,0,0
+87,Dedryck Boyata,BE,Club Brugge,DF,31,1990,3,1,136,"1,51",1,0,0,1,0,0
+88,Julian Brandt,DE,Dortmund ,"MF,FW",26,1996,7,6,476,"5,29",0,0,0,6,2,0
+89,Gleison Bremer,IT,Juventus ,DF,25,1997,3,3,270,"3,00",1,0,0,4,2,0
+90,Brian Brobbey,NL,Ajax ,FW,20,2002,5,1,116,"1,29",0,0,0,1,3,0
+91,Armando Broja,ENG,Chelsea ,FW,20,2001,5,0,116,"1,29",0,0,0,7,0,1
+92,Marcelo Brozović,IT,Inter ,MF,29,1992,9,5,549,"6,10",1,0,0,7,5,0
+93,Pavel Bucha,CZ,Viktoria Plzeň,MF,24,1998,5,4,364,"4,04",0,1,0,1,0,0
+94,Tajon Buchanan,BE,Club Brugge,"DF,MF",23,1999,6,6,520,"5,78",2,0,0,4,14,2
+95,Marko Bulat,HR,Dinamo Zagreb,MF,20,2001,3,0,29,"0,32",0,0,0,0,0,0
+96,Sergio Busquets,ES,Barcelona ,MF,34,1988,4,4,289,"3,21",3,0,0,4,9,0
+97,Aurélio Buta,DE,Eint Frankfurt,DF,25,1997,2,2,158,"1,76",0,0,0,1,0,0
+98,Jamie Bynoe-Gittens,DE,Dortmund ,MF,17,2004,2,0,39,"0,43",0,0,0,0,1,0
+99,Jovane Cabral,PT,Sporting CP,MF,24,1998,1,0,13,"0,14",0,0,0,0,0,0
+100,Davide Calabria,IT,Milan ,DF,25,1996,6,6,497,"5,52",2,0,0,6,4,0
+101,Hakan Çalhanoğlu,IT,Inter ,MF,28,1994,12,9,804,"8,93",1,0,0,15,13,1
+102,Eduardo Camavinga,ES,Real Madrid,"MF,DF",19,2002,11,8,721,"8,01",3,0,0,14,16,0
+103,Emre Can,DE,Dortmund ,MF,28,1994,7,6,565,"6,28",2,0,0,12,2,0
+104,João Cancelo,DE,Bayern Munich,DF,28,1994,4,2,123,"1,37",1,0,0,1,1,0
+105,João Cancelo,ENG,Manchester City,DF,28,1994,6,5,376,"4,18",1,0,0,5,3,2
+106,Nicolás Capaldo,AT,RB Salzburg,MF,24,1997,3,3,270,"3,00",2,0,0,10,2,0
+107,Valentin Carboni,IT,Inter ,FW,17,2005,1,0,15,"0,17",1,0,0,1,0,0
+108,Fábio Cardoso,PT,Porto ,DF,28,1994,4,4,360,"4,00",1,0,0,4,1,0
+109,David Carmo,PT,Porto ,DF,23,1999,5,5,450,"5,00",3,0,0,4,2,0
+110,Carmona,ES,Sevilla ,DF,20,2002,5,5,450,"5,00",2,0,0,4,4,0
+111,Yannick Carrasco,ES,Atlético Madrid,"DF,MF",28,1993,6,3,274,"3,04",0,0,0,3,0,2
+112,Cameron Carter-Vickers,SCT,Celtic ,DF,24,1997,4,4,360,"4,00",0,0,0,1,1,0
+113,Dani Carvajal,ES,Real Madrid,DF,30,1992,11,10,869,"9,66",3,0,0,10,10,1
+114,Fabio Carvalho,ENG,Liverpool ,"MF,FW",19,2002,4,1,115,"1,28",0,0,0,0,1,0
+115,Marc Casado,ES,Barcelona ,MF,18,2003,1,0,24,"0,27",0,0,0,0,1,0
+116,Dani Ceballos,ES,Real Madrid,MF,25,1996,7,0,86,"0,96",0,0,0,2,4,0
+117,Aleš Čermák,CZ,Viktoria Plzeň,MF,27,1994,3,0,32,"0,36",0,0,0,1,0,0
+118,El Chadaille Bitshiabu,FR,Paris S-G,DF,17,2005,1,0,45,"0,50",0,0,0,0,0,0
+119,Trevoh Chalobah,ENG,Chelsea ,DF,23,1999,6,4,439,"4,88",0,0,0,1,3,0
+120,Timothy Chandler,DE,Eint Frankfurt,DF,32,1990,1,0,12,"0,13",0,0,0,0,0,0
+121,Tjaronn Chery,IL,Maccabi Haifa,"MF,FW",34,1988,6,6,540,"6,00",1,0,0,3,2,2
+122,Federico Chiesa,IT,Juventus ,FW,24,1997,1,0,17,"0,19",0,0,0,1,0,1
+123,Ben Chilwell,ENG,Chelsea ,"DF,MF",25,1996,7,7,556,"6,18",1,1,0,10,11,2
+124,Chiquinho,PT,Benfica ,MF,27,1995,9,4,404,"4,49",0,0,0,3,7,1
+125,Tomáš Chorý,CZ,Viktoria Plzeň,FW,27,1995,6,5,361,"4,01",2,0,0,9,7,3
+126,Andreas Christensen,ES,Barcelona ,DF,26,1996,3,3,216,"2,40",0,0,0,2,2,0
+127,Viktor Claesson,DK,FC Copenhagen,"FW,MF",30,1992,6,6,482,"5,36",2,0,0,6,5,1
+128,Jonathan Clauss,FR,Marseille ,DF,29,1992,6,6,410,"4,56",1,0,0,1,1,0
+129,William Clem,DK,FC Copenhagen,MF,18,2004,2,2,170,"1,89",0,0,0,1,2,0
+130,Sebastián Coates,PT,Sporting CP,DF,31,1990,5,5,394,"4,38",1,0,0,2,1,0
+131,Josh Cohen,IL,Maccabi Haifa,GK,29,1992,6,6,540,"6,00",0,0,0,0,1,0
+132,Antonio Čolak,SCT,Rangers ,FW,28,1993,6,3,284,"3,16",0,0,0,3,3,4
+133,Kingsley Coman,DE,Bayern Munich,"FW,DF",26,1996,7,7,533,"5,92",0,0,0,1,12,2
+134,Francisco Conceição,NL,Ajax ,"FW,MF",19,2002,3,0,17,"0,19",1,0,0,1,3,0
+135,Rodrigo Conceição,PT,Porto ,DF,22,2000,2,0,5,"0,06",0,0,0,1,0,0
+136,Andreas Cornelius,DK,FC Copenhagen,FW,29,1993,2,1,109,"1,21",0,0,0,4,3,1
+137,Pierre Cornud,IL,Maccabi Haifa,DF,25,1996,5,5,371,"4,12",1,0,0,2,2,0
+138,Ángel Correa,ES,Atlético Madrid,"FW,MF",27,1995,6,3,315,"3,50",0,0,0,3,4,4
+139,Joaquín Correa,IT,Inter ,FW,27,1994,9,3,304,"3,38",0,0,0,3,4,3
+140,Bruno Xavier Almeida Costa,PT,Porto ,MF,25,1997,3,1,73,"0,81",0,0,0,1,1,0
+141,Diogo Costa,PT,Porto ,GK,22,1999,8,8,720,"8,00",0,0,0,0,1,0
+142,Soumaïla Coulibaly,DE,Dortmund ,DF,18,2003,1,0,19,"0,21",0,0,0,1,0,0
+143,Thibaut Courtois,ES,Real Madrid,GK,30,1992,10,10,900,"10,00",0,0,0,0,0,0
+144,Juan Cuadrado,IT,Juventus ,"DF,MF",34,1988,6,6,431,"4,79",0,0,0,4,17,1
+145,Marc Cucurella,ENG,Chelsea ,DF,24,1998,8,4,414,"4,60",2,0,0,6,6,2
+146,Matheus Cunha,ES,Atlético Madrid,"FW,MF",23,1999,5,0,122,"1,36",0,0,0,2,3,1
+147,Danilo D'Ambrosio,IT,Inter ,DF,33,1988,6,1,161,"1,79",0,0,0,3,4,1
+148,Danilo,IT,Juventus ,DF,31,1991,5,5,427,"4,74",3,0,0,4,1,0
+149,Arnaut Danjuma,ENG,Tottenham ,MF,25,1997,1,0,10,"0,11",0,0,0,0,0,0
+150,Mohammed Daramy,DK,FC Copenhagen,FW,20,2002,6,6,443,"4,92",1,0,0,2,5,4
+151,Matteo Darmian,IT,Inter ,DF,32,1989,11,9,821,"9,12",1,0,0,10,4,1
+152,Dean David,IL,Maccabi Haifa,"FW,DF",26,1996,6,3,237,"2,63",0,0,0,2,1,1
+153,Alphonso Davies,DE,Bayern Munich,DF,21,2000,9,6,602,"6,69",1,0,0,4,4,1
+154,Ben Davies,ENG,Tottenham ,DF,29,1993,7,4,392,"4,36",0,0,0,6,3,2
+155,Ben Davies,SCT,Rangers ,DF,26,1995,3,3,260,"2,89",1,0,0,2,1,0
+156,Steven Davis,SCT,Rangers ,MF,37,1985,5,3,249,"2,77",0,0,0,0,1,0
+157,Kevin De Bruyne,ENG,Manchester City,MF,31,1991,10,9,716,"7,96",1,0,0,5,7,1
+158,Charles De Ketelaere,IT,Milan ,"MF,FW",21,2001,6,3,234,"2,60",1,0,0,5,1,0
+159,Rodrigo De Paul,ES,Atlético Madrid,MF,28,1994,5,1,256,"2,84",1,0,0,2,8,1
+160,Mattia De Sciglio,IT,Juventus ,DF,29,1992,3,1,95,"1,06",0,0,0,1,1,1
+161,Amar Dedić,AT,RB Salzburg,DF,19,2002,6,6,540,"6,00",0,0,0,6,6,0
+162,Thomas Delaney,ES,Sevilla ,MF,30,1991,4,3,230,"2,56",0,0,0,2,4,0
+163,Ousmane Dembélé,ES,Barcelona ,FW,25,1997,6,5,413,"4,59",1,0,0,5,6,2
+164,Kerem Demirbay,DE,Leverkusen ,MF,29,1993,5,2,268,"2,98",1,0,0,9,4,1
+165,Sergiño Dest,IT,Milan ,DF,21,2000,4,1,191,"2,12",0,0,0,2,1,1
+166,Giovanni Di Lorenzo,IT,Napoli ,DF,28,1993,10,10,888,"9,87",2,0,0,12,9,0
+167,Ángel Di María,IT,Juventus ,FW,34,1988,3,2,146,"1,62",0,0,0,1,2,0
+168,Moussa Diaby,DE,Leverkusen ,"FW,MF",23,1999,6,6,505,"5,61",0,0,0,3,2,1
+169,Abdou Diallo,DE,RB Leipzig,"DF,MF",26,1996,5,2,227,"2,52",0,0,0,0,2,0
+170,Rúben Dias,ENG,Manchester City,DF,25,1997,12,11,1,"0,01",2,0,0,8,1,0
+171,Brahim Díaz,IT,Milan ,"MF,FW",22,1999,10,8,602,"6,69",1,0,0,11,23,0
+172,Luis Díaz,ENG,Liverpool ,FW,25,1997,3,3,269,"2,99",0,0,0,6,5,2
+173,Eric Dier,ENG,Tottenham ,DF,28,1994,7,7,617,"6,86",3,0,0,11,0,0
+174,Kevin Diks,DK,FC Copenhagen,DF,25,1996,6,4,335,"3,72",0,0,0,5,1,0
+175,Federico Dimarco,IT,Inter ,DF,24,1997,11,10,728,"8,09",2,0,0,7,9,1
+176,Junior Dina Ebimbe,DE,Eint Frankfurt,"MF,DF",21,2000,6,3,239,"2,66",1,0,0,9,4,0
+177,Marko Dmitrović,ES,Sevilla ,GK,30,1992,2,2,180,"2,00",0,0,0,0,0,0
+178,Matt Doherty,ENG,Tottenham ,DF,30,1992,2,1,76,"0,84",0,0,0,2,0,0
+179,Kasper Dolberg,ES,Sevilla ,FW,24,1997,4,1,110,"1,22",0,0,0,3,1,1
+180,Gianluigi Donnarumma,FR,Paris S-G,GK,23,1999,8,8,720,"8,00",0,0,0,0,1,0
+181,Julian Draxler,PT,Benfica ,MF,28,1993,3,0,32,"0,36",0,0,0,0,0,0
+182,Josip Drmić,HR,Dinamo Zagreb,FW,29,1992,6,0,95,"1,06",0,0,0,0,0,1
+183,Denzel Dumfries,IT,Inter ,DF,26,1996,12,10,885,"9,83",0,0,0,14,22,5
+184,Edin Džeko,IT,Inter ,FW,36,1986,13,11,824,"9,16",2,0,0,13,14,2
+185,Ederson,ENG,Manchester City,GK,28,1993,11,11,990,"11,00",2,0,0,0,1,0
+186,Jorge Eduardo Sánchez,NL,Ajax ,DF,24,1997,5,3,269,"2,99",1,0,0,4,1,0
+187,Marcus Edwards,PT,Sporting CP,"FW,MF",23,1998,6,6,352,"3,91",0,0,0,2,5,1
+188,Hugo Ekitike,FR,Paris S-G,"MF,FW",20,2002,4,0,62,"0,69",0,0,0,2,0,0
+189,Harvey Elliott,ENG,Liverpool ,MF,19,2003,8,4,395,"4,39",1,0,0,5,5,0
+190,Elif Elmas,IT,Napoli ,"FW,MF",22,1999,10,2,285,"3,17",1,0,0,5,5,0
+191,Emerson,ENG,Tottenham ,"DF,MF",23,1999,8,6,543,"6,03",1,0,0,8,12,2
+192,Youssef En-Nesyri,ES,Sevilla ,FW,25,1997,4,3,245,"2,72",0,0,0,1,1,3
+193,Ricardo Esgaio,PT,Sporting CP,"DF,MF",29,1993,3,2,109,"1,21",3,1,1,2,1,0
+194,Dario Essugo,PT,Sporting CP,MF,17,2005,1,0,28,"0,31",0,0,0,0,1,0
+195,Stephen Eustáquio,PT,Porto ,MF,25,1996,7,7,594,"6,60",1,0,0,3,7,0
+196,Evanilson,PT,Porto ,FW,22,1999,8,6,513,"5,70",0,0,0,5,15,6
+197,Fabinho,ENG,Liverpool ,MF,28,1993,8,7,632,"7,02",0,0,0,12,4,0
+198,Nicolò Fagioli,IT,Juventus ,MF,21,2001,2,1,108,"1,20",1,0,0,1,3,0
+199,Rasmus Falk,DK,FC Copenhagen,MF,30,1992,3,2,189,"2,10",0,0,0,0,4,0
+200,Abdul Fatawu Issahaku,PT,Sporting CP,"MF,DF",18,2004,2,0,89,"0,99",0,0,0,0,2,0
+201,Ansu Fati,ES,Barcelona ,FW,19,2002,6,2,244,"2,71",0,0,0,6,0,0
+202,Felipe,ES,Atlético Madrid,DF,33,1989,1,1,90,"1,00",0,0,0,0,0,0
+203,João Félix,ENG,Chelsea ,"FW,MF",22,1999,4,3,244,"2,71",0,0,0,1,6,1
+204,João Félix,ES,Atlético Madrid,FW,22,1999,5,3,217,"2,41",0,0,0,1,10,1
+205,Mateus Fernandes,PT,Sporting CP,MF,18,2004,1,0,30,"0,33",0,0,0,2,1,0
+206,Enzo Fernández,PT,Benfica ,MF,21,2001,5,5,427,"4,74",3,0,0,15,4,0
+207,Enzo Fernández,ENG,Chelsea ,MF,21,2001,4,4,332,"3,69",1,0,0,4,4,0
+208,Fernando,AT,RB Salzburg,FW,23,1999,1,1,64,"0,71",0,0,0,1,5,0
+209,Fernando,ES,Sevilla ,MF,35,1987,1,1,90,"1,00",0,0,0,1,2,0
+210,Roberto Firmino,ENG,Liverpool ,"FW,MF",30,1991,8,4,417,"4,63",0,0,0,7,0,0
+211,Phil Foden,ENG,Manchester City,"MF,FW",22,2000,8,3,384,"4,27",1,0,0,4,9,2
+212,Wesley Fofana,ENG,Chelsea ,DF,21,2000,5,5,397,"4,41",1,0,0,10,2,0
+213,Bernardo Folha,PT,Porto ,MF,20,2002,2,0,8,"0,09",0,0,0,1,0,0
+214,James Forrest,SCT,Celtic ,FW,31,1991,3,0,90,"1,00",0,0,0,0,0,0
+215,Emil Forsberg,DE,RB Leipzig,"MF,FW",30,1991,8,4,402,"4,47",0,0,0,6,7,2
+216,Fraser Forster,ENG,Tottenham ,GK,34,1988,2,2,180,"2,00",0,0,0,0,0,0
+217,Timothy Fosu-Mensah,DE,Leverkusen ,"MF,DF",24,1998,3,0,10,"0,11",0,0,0,0,0,0
+218,Lassina Franck Traoré,UA,Shakhtar ,FW,21,2001,6,3,244,"2,71",0,0,0,4,4,3
+219,André Franco,PT,Porto ,MF,24,1998,1,0,21,"0,23",0,0,0,0,0,0
+220,Jeremie Frimpong,DE,Leverkusen ,"MF,FW",21,2000,5,4,374,"4,16",2,1,1,4,7,1
+221,Kyogo Furuhashi,SCT,Celtic ,FW,27,1995,6,5,359,"3,99",1,0,0,5,2,0
+222,Matteo Gabbia,IT,Milan ,DF,22,1999,4,2,211,"2,34",1,0,0,5,3,0
+223,Gianluca Gaetano,IT,Napoli ,MF,22,2000,3,0,31,"0,34",0,0,0,2,0,0
+224,Roberto Gagliardini,IT,Inter ,MF,28,1994,6,1,116,"1,29",1,0,0,6,3,0
+225,Cody Gakpo,ENG,Liverpool ,"FW,MF",23,1999,2,2,152,"1,69",0,0,0,1,3,1
+226,Galeno,PT,Porto ,"FW,MF",24,1997,8,7,563,"6,26",0,0,0,4,18,1
+227,Conor Gallagher,ENG,Chelsea ,MF,22,2000,8,2,301,"3,34",2,0,0,5,6,0
+228,Eric García,ES,Barcelona ,DF,21,2001,4,2,225,"2,50",0,0,0,2,0,1
+229,Federico Gatti,IT,Juventus ,DF,24,1998,2,2,180,"2,00",1,0,0,4,3,0
+230,Gavi,ES,Barcelona ,MF,17,2004,5,4,329,"3,66",2,0,0,5,8,1
+231,Gerson,FR,Marseille ,MF,25,1997,3,2,121,"1,34",0,0,0,2,6,0
+232,Giorgos Giakoumakis,SCT,Celtic ,FW,27,1994,6,2,246,"2,73",0,0,0,8,4,0
+233,Samuel Gigot,FR,Marseille ,DF,28,1993,5,2,249,"2,77",0,0,0,2,3,0
+234,Bryan Gil,ENG,Tottenham ,MF,21,2001,4,0,40,"0,44",0,0,0,0,3,0
+235,Gilberto,PT,Benfica ,DF,29,1993,5,2,201,"2,23",1,0,0,2,3,0
+236,Olivier Giroud,IT,Milan ,FW,35,1986,12,12,932,"10,36",1,0,0,12,8,9
+237,Serge Gnabry,DE,Bayern Munich,"FW,MF",27,1995,8,3,343,"3,81",0,0,0,4,0,5
+238,Sean Goldberg,IL,Maccabi Haifa,DF,27,1995,6,6,540,"6,00",0,0,0,6,0,0
+239,Connor Goldson,SCT,Rangers ,DF,29,1992,4,4,314,"3,49",0,0,0,1,4,0
+240,Joe Gomez,ENG,Liverpool ,DF,25,1997,5,4,298,"3,31",1,0,0,6,1,0
+241,Papu Gómez,ES,Sevilla ,"FW,MF",34,1988,5,3,246,"2,73",0,0,0,2,5,0
+242,Sergio Gómez,ENG,Manchester City,"DF,MF",21,2000,5,4,305,"3,39",0,1,0,3,1,0
+243,Diogo Gonçalves,PT,Benfica ,"FW,MF",25,1997,4,0,40,"0,44",0,0,0,2,2,0
+244,Pedro Gonçalves,PT,Sporting CP,"MF,FW",24,1998,5,5,363,"4,03",2,1,1,11,4,0
+245,Leon Goretzka,DE,Bayern Munich,MF,27,1995,9,7,606,"6,73",1,0,0,12,0,0
+246,Robin Gosens,IT,Inter ,DF,28,1994,11,3,426,"4,73",1,0,0,7,3,0
+247,Mario Götze,DE,Eint Frankfurt,"MF,FW",30,1992,7,6,522,"5,80",2,0,0,7,10,1
+248,Lucas Gourna-Douath,AT,RB Salzburg,MF,18,2003,6,3,315,"3,50",2,0,0,8,10,0
+249,Kamil Grabara,DK,FC Copenhagen,GK,23,1999,4,4,360,"4,00",0,0,0,0,0,0
+250,Ryan Gravenberch,DE,Bayern Munich,MF,20,2002,6,2,254,"2,82",0,0,0,7,3,0
+251,Ivo Grbić,ES,Atlético Madrid,GK,26,1996,1,1,90,"1,00",0,0,0,0,0,0
+252,Jack Grealish,ENG,Manchester City,FW,26,1995,13,12,933,"10,37",1,0,0,12,32,0
+253,Antoine Griezmann,ES,Atlético Madrid,"FW,MF",31,1991,6,4,406,"4,51",0,0,0,3,4,6
+254,Florian Grillitsch,NL,Ajax ,MF,26,1995,5,0,59,"0,66",0,0,0,0,1,0
+255,Álex Grimaldo,PT,Benfica ,DF,26,1995,10,10,900,"10,00",0,0,0,3,5,1
+256,Marko Grujić,PT,Porto ,MF,26,1996,4,3,278,"3,09",1,0,0,6,2,0
+257,Nemanja Gudelj,ES,Sevilla ,"DF,MF",30,1991,6,5,496,"5,51",2,0,0,4,4,0
+258,Gonçalo Guedes,PT,Benfica ,"FW,MF",25,1996,2,0,43,"0,48",0,0,0,0,1,2
+259,Mattéo Guendouzi,FR,Marseille ,MF,23,1999,6,5,418,"4,64",1,0,0,2,6,0
+260,Raphaël Guerreiro,DE,Dortmund ,DF,28,1993,6,5,479,"5,32",0,0,0,3,8,0
+261,Pape Gueye,FR,Marseille ,MF,23,1999,3,0,37,"0,41",0,0,0,1,2,0
+262,Péter Gulácsi,DE,RB Leipzig,GK,32,1990,3,3,192,"2,13",0,0,0,0,0,0
+263,İlkay Gündoğan,ENG,Manchester City,MF,31,1990,13,12,994,"11,04",4,0,0,6,17,0
+264,Joško Gvardiol,DE,RB Leipzig,DF,20,2002,6,6,540,"6,00",0,0,0,1,5,0
+265,Erling Haaland,ENG,Manchester City,FW,22,2000,11,11,841,"9,34",1,0,0,11,7,4
+266,Amadou Haidara,DE,RB Leipzig,MF,24,1998,7,4,339,"3,77",1,0,0,2,2,0
+267,Achraf Hakimi,FR,Paris S-G,"DF,MF",23,1998,8,7,580,"6,44",1,0,0,3,1,1
+268,Sead Haksabanović,SCT,Celtic ,"MF,FW",23,1999,6,3,229,"2,54",0,0,0,2,7,0
+269,Sébastien Haller,DE,Dortmund ,FW,28,1994,2,2,143,"1,59",0,0,0,1,2,0
+270,Marcel Halstenberg,DE,RB Leipzig,DF,30,1991,4,2,167,"1,86",0,0,0,2,2,0
+271,Amine Harit,FR,Marseille ,MF,25,1997,6,4,380,"4,22",0,0,0,4,11,2
+272,Joe Hart,SCT,Celtic ,GK,35,1987,6,6,540,"6,00",0,0,0,0,0,0
+273,Makoto Hasebe,DE,Eint Frankfurt,DF,38,1984,4,3,257,"2,86",2,0,0,3,8,0
+274,Reo Hatate,SCT,Celtic ,MF,24,1997,6,6,448,"4,98",1,0,0,2,4,0
+275,Milan Havel,CZ,Viktoria Plzeň,DF,27,1994,6,5,424,"4,71",0,0,0,0,1,0
+276,Kai Havertz,ENG,Chelsea ,"FW,MF",23,1999,10,7,619,"6,88",0,0,0,12,7,2
+277,Eden Hazard,ES,Real Madrid,"FW,MF",31,1991,3,1,132,"1,47",0,0,0,0,2,0
+278,Thorgan Hazard,DE,Dortmund ,"DF,FW",29,1993,5,3,200,"2,22",0,0,0,2,2,0
+279,Dolev Haziz,IL,Maccabi Haifa,DF,27,1995,3,2,211,"2,34",1,0,0,3,4,0
+280,Lukáš Hejda,CZ,Viktoria Plzeň,DF,32,1990,6,6,512,"5,69",0,0,0,6,1,0
+281,Jordan Henderson,ENG,Liverpool ,MF,32,1990,4,4,277,"3,08",0,0,0,2,1,0
+282,Jack Hendry,BE,Club Brugge,DF,27,1995,1,1,90,"1,00",0,0,0,1,0,1
+283,Benjamin Henrichs,DE,RB Leipzig,"DF,MF",25,1997,7,1,202,"2,24",2,0,0,5,2,0
+284,Mario Hermoso,ES,Atlético Madrid,DF,27,1995,3,2,158,"1,76",1,0,0,2,1,0
+285,Lucas Hernández,DE,Bayern Munich,DF,26,1996,2,2,173,"1,92",0,0,0,1,3,0
+286,Theo Hernández,IT,Milan ,DF,24,1997,11,11,945,"10,50",2,0,0,13,23,2
+287,Son Heung-min,ENG,Tottenham ,"MF,FW",30,1992,8,8,618,"6,87",1,0,0,1,13,3
+288,Piero Hincapié,DE,Leverkusen ,DF,20,2002,5,5,450,"5,00",3,0,0,7,7,0
+289,Adam Hložek,DE,Leverkusen ,"MF,FW",20,2002,6,3,275,"3,06",0,0,0,3,7,0
+290,Libor Holík,CZ,Viktoria Plzeň,DF,24,1998,6,2,290,"3,22",0,0,0,1,4,0
+291,Lukáš Hrádecký,DE,Leverkusen ,GK,32,1989,6,6,540,"6,00",1,0,0,0,1,0
+292,Callum Hudson-Odoi,DE,Leverkusen ,FW,21,2000,6,6,461,"5,12",0,0,0,0,6,1
+293,Mats Hummels,DE,Dortmund ,DF,33,1988,4,4,315,"3,50",1,0,0,1,3,0
+294,Pierre Højbjerg,ENG,Tottenham ,MF,26,1995,7,7,624,"6,93",3,0,0,8,7,0
+295,Samuel Iling-Junior,IT,Juventus ,DF,18,2003,1,0,21,"0,23",0,0,0,0,0,0
+296,Gonçalo Inácio,PT,Sporting CP,DF,20,2001,6,6,540,"6,00",1,0,0,3,2,0
+297,Isco,ES,Sevilla ,"MF,FW",30,1992,6,5,399,"4,43",0,0,0,3,14,0
+298,Franco Israel,PT,Sporting CP,GK,22,2000,2,1,155,"1,72",0,0,0,0,0,0
+299,Luka Ivanušec,HR,Dinamo Zagreb,MF,23,1998,6,6,524,"5,82",2,0,0,8,3,0
+300,Ryan Jack,SCT,Rangers ,MF,30,1992,4,2,191,"2,12",1,0,0,5,1,0
+301,Kristijan Jakić,DE,Eint Frankfurt,DF,25,1997,8,7,616,"6,84",2,0,0,14,3,0
+302,Reece James,ENG,Chelsea ,"DF,MF",22,1999,8,8,691,"7,68",3,0,0,15,7,2
+303,Adnan Januzaj,ES,Sevilla ,"FW,MF",27,1995,3,0,52,"0,58",0,0,0,0,2,0
+304,Luis Javier Suárez,FR,Marseille ,FW,24,1997,4,1,114,"1,27",1,0,0,3,4,1
+305,Elias Jelert,DK,FC Copenhagen,"DF,MF",19,2003,4,2,192,"2,13",0,0,0,2,0,0
+306,Václav Jemelka,CZ,Viktoria Plzeň,DF,27,1995,6,4,361,"4,01",2,0,0,2,2,1
+307,Valdemar Jensen,DK,FC Copenhagen,DF,19,2003,4,3,304,"3,38",1,0,0,4,2,0
+308,Moritz Jenz,SCT,Celtic ,DF,23,1999,6,6,540,"6,00",1,0,0,4,0,0
+309,Juan Jesus,IT,Napoli ,DF,31,1991,3,2,205,"2,28",2,0,0,4,0,0
+310,Erik Jirka,CZ,Viktoria Plzeň,"FW,MF",24,1997,6,2,266,"2,96",0,0,0,2,5,0
+311,Ísak Jóhannesson,DK,FC Copenhagen,"FW,MF",19,2003,5,3,290,"3,22",0,0,0,2,2,0
+312,Curtis Jones,ENG,Liverpool ,"FW,MF",21,2001,2,1,100,"1,11",0,0,0,2,2,1
+313,Frenkie de Jong,ES,Barcelona ,MF,25,1997,4,2,237,"2,63",0,0,0,2,6,0
+314,Joan Jordán,ES,Sevilla ,MF,28,1994,6,2,260,"2,89",1,0,0,5,5,0
+315,Jorginho,ENG,Chelsea ,MF,30,1991,6,4,418,"4,64",0,0,0,3,10,0
+316,Diogo Jota,ENG,Liverpool ,"FW,MF",25,1996,6,3,263,"2,92",0,0,0,3,5,1
+317,Vinicius Júnior,ES,Real Madrid,FW,22,2000,12,11,972,"10,80",1,0,0,11,28,6
+318,Josip Juranović,SCT,Celtic ,DF,26,1995,6,6,540,"6,00",1,0,0,3,2,0
+319,Jutglà,BE,Club Brugge,FW,23,1999,8,6,511,"5,68",0,0,0,4,4,2
+320,Issa Kaboré,FR,Marseille ,DF,21,2001,4,0,113,"1,26",0,0,0,2,3,1
+321,Pierre Kalulu,IT,Milan ,DF,22,2000,10,8,751,"8,34",0,0,0,11,8,0
+322,Lukáš Kalvach,CZ,Viktoria Plzeň,MF,27,1995,6,6,492,"5,47",1,0,0,9,4,0
+323,Daichi Kamada,DE,Eint Frankfurt,"MF,FW",25,1996,8,8,696,"7,73",1,0,0,4,11,1
+324,Glen Kamara,SCT,Rangers ,MF,26,1995,4,1,127,"1,41",0,0,0,2,1,0
+325,Dijon Kameri,AT,RB Salzburg,MF,18,2004,4,1,121,"1,34",0,0,0,1,3,1
+326,Kevin Kampl,DE,RB Leipzig,MF,31,1990,5,3,273,"3,03",1,0,0,3,1,0
+327,Harry Kane,ENG,Tottenham ,FW,29,1993,8,8,720,"8,00",1,0,0,7,14,2
+328,N'Golo Kanté,ENG,Chelsea ,MF,31,1991,2,2,164,"1,82",0,0,0,3,0,0
+329,Mamoudou Karamoko,DK,FC Copenhagen,FW,22,1999,1,1,45,"0,50",0,0,0,0,0,0
+330,Moise Kean,IT,Juventus ,"FW,MF",22,2000,5,1,111,"1,23",0,0,0,0,1,2
+331,Ryan Kent,SCT,Rangers ,"FW,MF",25,1996,6,6,507,"5,63",0,0,0,0,11,3
+332,Franck Kessié,ES,Barcelona ,MF,25,1996,6,3,274,"3,04",0,0,0,7,8,0
+333,Davit Khocholava,DK,FC Copenhagen,DF,29,1993,5,5,428,"4,76",1,1,0,6,0,0
+334,Joshua Kimmich,DE,Bayern Munich,MF,27,1995,9,9,810,"9,00",3,0,0,8,17,0
+335,Presnel Kimpembe,FR,Paris S-G,DF,26,1995,3,1,147,"1,63",1,0,0,3,2,0
+336,Leon King,SCT,Rangers ,DF,18,2004,6,3,374,"4,16",0,0,0,1,1,0
+337,Simon Kjær,IT,Milan ,DF,33,1989,6,6,508,"5,64",0,0,0,5,0,0
+338,Maurits Kjærgaard,AT,RB Salzburg,MF,19,2003,6,6,495,"5,50",0,0,0,6,1,0
+339,Davy Klaassen,NL,Ajax ,MF,29,1993,5,2,212,"2,36",0,0,0,0,2,1
+340,Jan Kliment,CZ,Viktoria Plzeň,FW,28,1993,1,0,45,"0,50",0,0,0,2,1,0
+341,Lukas Klostermann,DE,RB Leipzig,DF,26,1996,2,1,56,"0,62",0,0,0,1,0,0
+342,Ansgar Knauff,DE,Eint Frankfurt,"DF,FW",20,2002,6,3,293,"3,26",0,0,0,6,2,0
+343,Gregor Kobel,DE,Dortmund ,GK,24,1997,4,4,315,"3,50",0,0,0,0,2,0
+344,Philipp Köhn,AT,RB Salzburg,GK,24,1998,6,6,540,"6,00",0,0,0,0,3,0
+345,Sekou Koita,AT,RB Salzburg,FW,22,1999,2,0,20,"0,22",0,0,0,0,0,0
+346,Koke,ES,Atlético Madrid,MF,30,1992,4,4,329,"3,66",1,0,0,7,4,0
+347,Sead Kolašinac,FR,Marseille ,DF,29,1993,4,1,151,"1,68",0,0,0,3,1,0
+348,Randal Kolo Muani,DE,Eint Frankfurt,FW,23,1998,7,7,515,"5,72",1,1,0,11,7,8
+349,Ibrahima Konaté,ENG,Liverpool ,DF,23,1999,3,3,258,"2,87",1,0,0,7,4,0
+350,Geoffrey Kondogbia,ES,Atlético Madrid,MF,29,1993,3,2,225,"2,50",2,0,0,3,3,0
+351,Yukhym Konoplia,UA,Shakhtar ,DF,22,1999,5,5,418,"4,64",2,0,0,10,5,0
+352,Jan Kopic,CZ,Viktoria Plzeň,"FW,MF",32,1990,2,2,81,"0,90",0,0,0,0,1,0
+353,Odilon Kossonou,DE,Leverkusen ,DF,21,2001,5,5,428,"4,76",1,0,0,7,2,0
+354,Filip Kostić,IT,Juventus ,"DF,FW",29,1992,6,5,428,"4,76",0,0,0,3,3,0
+355,Kalidou Koulibaly,ENG,Chelsea ,DF,31,1991,7,7,568,"6,31",2,0,0,8,4,2
+356,Jules Koundé,ES,Barcelona ,DF,23,1998,3,3,246,"2,73",0,0,0,0,1,0
+357,Mateo Kovačić,ENG,Chelsea ,MF,28,1994,8,8,621,"6,90",2,0,0,5,10,0
+358,Adam Kronus,CZ,Viktoria Plzeň,FW,20,2002,1,0,3,"0,03",0,0,0,0,0,0
+359,Toni Kroos,ES,Real Madrid,MF,32,1990,12,10,842,"9,36",2,0,0,6,11,0
+360,Rade Krunić,IT,Milan ,"MF,FW",28,1993,11,9,823,"9,14",4,0,0,7,10,0
+361,Dmytro Kryskiv,UA,Shakhtar ,MF,21,2000,1,0,10,"0,11",0,0,0,0,0,0
+362,Serhiy Kryvtsov,UA,Shakhtar ,DF,31,1991,2,0,6,"0,07",0,0,0,0,1,0
+363,Dejan Kulusevski,ENG,Tottenham ,"MF,DF",22,2000,4,2,200,"2,22",0,0,0,7,5,0
+364,Khvicha Kvaratskhelia,IT,Napoli ,FW,21,2001,9,9,692,"7,69",0,0,0,4,8,0
+365,Konrad Laimer,DE,RB Leipzig,"MF,FW",25,1997,3,3,261,"2,90",0,0,0,2,1,0
+366,Érik Lamela,ES,Sevilla ,"FW,MF",30,1992,5,2,278,"3,09",2,0,0,5,0,1
+367,Noa Lang,BE,Club Brugge,FW,23,1999,4,4,290,"3,22",1,0,0,3,6,1
+368,Aymeric Laporte,ENG,Manchester City,DF,28,1994,4,3,292,"3,24",1,0,0,3,1,0
+369,Cyle Larin,BE,Club Brugge,"FW,MF",27,1995,1,0,12,"0,13",0,0,0,0,0,0
+370,Rasmus Lauritsen,HR,Dinamo Zagreb,DF,26,1996,1,0,15,"0,17",0,0,0,0,0,0
+371,Neta Lavi,IL,Maccabi Haifa,MF,25,1996,6,5,469,"5,21",2,0,0,9,3,0
+372,Rafael Leão,IT,Milan ,"FW,MF",23,1999,11,11,907,"10,08",0,0,0,11,17,1
+373,Thomas Lemar,ES,Atlético Madrid,MF,26,1995,2,1,104,"1,16",0,0,0,0,1,0
+374,Clément Lenglet,ENG,Tottenham ,DF,27,1995,7,6,508,"5,64",3,0,0,12,5,0
+375,Christopher Lenz,DE,Eint Frankfurt,DF,27,1994,5,4,225,"2,50",1,0,0,7,1,1
+376,Lukas Lerager,DK,FC Copenhagen,MF,29,1993,6,5,450,"5,00",2,0,0,9,2,0
+377,Robert Lewandowski,ES,Barcelona ,FW,33,1988,5,5,441,"4,90",0,0,0,5,10,2
+378,Rico Lewis,ENG,Manchester City,DF,17,2004,2,1,119,"1,32",0,0,0,4,1,0
+379,Matthijs de Ligt,DE,Bayern Munich,DF,22,1999,7,7,614,"6,82",1,0,0,8,4,0
+380,Jesper Lindstrøm,DE,Eint Frankfurt,"MF,FW",22,2000,7,7,508,"5,64",0,0,0,8,11,1
+381,Dominik Livaković,HR,Dinamo Zagreb,GK,27,1995,6,6,540,"6,00",0,0,0,0,1,0
+382,Robert Ljubicic,HR,Dinamo Zagreb,"FW,DF",23,1999,6,6,540,"6,00",1,0,0,7,10,0
+383,Marcos Llorente,ES,Atlético Madrid,"MF,FW",27,1995,3,3,212,"2,36",0,0,0,1,0,0
+384,Hugo Lloris,ENG,Tottenham ,GK,35,1986,6,6,540,"6,00",0,0,0,0,0,0
+385,Danny Loader,PT,Porto ,"FW,MF",21,2000,3,0,52,"0,58",0,0,0,0,0,0
+386,Stanislav Lobotka,IT,Napoli ,MF,27,1994,10,10,873,"9,70",0,0,0,8,24,0
+387,Manuel Locatelli,IT,Juventus ,MF,24,1998,5,2,222,"2,47",1,0,0,4,2,1
+388,Ruben Loftus-Cheek,ENG,Chelsea ,MF,26,1996,7,2,285,"3,17",0,0,0,2,8,0
+389,Pau López,FR,Marseille ,GK,27,1994,6,6,540,"6,00",0,0,0,0,2,0
+390,Alexander lowry,SCT,Rangers ,MF,19,2003,1,0,8,"0,09",0,0,0,0,0,0
+391,Hirving Lozano,IT,Napoli ,FW,27,1995,9,4,467,"5,19",0,0,0,7,7,3
+392,Florentino Luís,PT,Benfica ,MF,22,1999,10,10,859,"9,54",2,0,0,12,1,0
+393,Romelu Lukaku,IT,Inter ,FW,29,1993,8,0,185,"2,06",1,0,0,5,1,0
+394,John Lundstram,SCT,Rangers ,"MF,DF",28,1994,5,5,450,"5,00",3,0,0,9,4,0
+395,Andriy Lunin,ES,Real Madrid,GK,23,1999,2,2,180,"2,00",0,0,0,0,0,0
+396,Mahir Madatov,HR,Dinamo Zagreb,FW,25,1997,1,0,21,"0,23",0,0,0,1,0,0
+397,Daizen Maeda,SCT,Celtic ,FW,24,1997,6,3,330,"3,67",1,0,0,7,2,1
+398,Riyad Mahrez,ENG,Manchester City,"FW,MF",31,1991,9,6,506,"5,62",0,0,0,4,9,2
+399,Mike Maignan,IT,Milan ,GK,27,1995,7,7,630,"7,00",1,0,0,0,1,0
+400,Donyell Malen,DE,Dortmund ,"FW,MF",23,1999,6,2,248,"2,76",1,0,0,1,3,1
+401,Reinildo Mandava,ES,Atlético Madrid,DF,28,1994,6,6,511,"5,68",2,0,0,4,5,0
+402,Sadio Mané,DE,Bayern Munich,FW,30,1992,9,6,552,"6,13",0,0,0,11,9,9
+403,Iván Marcano,PT,Porto ,DF,35,1987,3,3,270,"3,00",0,0,0,1,0,0
+404,Marcão,ES,Sevilla ,DF,26,1996,3,3,223,"2,48",0,0,0,2,4,0
+405,José María Giménez,ES,Atlético Madrid,DF,27,1995,5,5,401,"4,46",1,0,0,4,2,0
+406,Mariano,ES,Real Madrid,FW,28,1993,1,0,6,"0,07",0,0,0,0,0,0
+407,Antonio Marin,HR,Dinamo Zagreb,FW,21,2001,1,0,7,"0,08",1,0,0,1,0,0
+408,João Mário,PT,Benfica ,FW,29,1993,10,10,861,"9,57",2,0,0,8,9,1
+409,João Mário Lopes,PT,Porto ,DF,22,2000,5,4,270,"3,00",3,0,0,4,5,0
+410,Marquinhos,FR,Paris S-G,DF,28,1994,8,8,653,"7,26",0,0,0,3,4,0
+411,José Marsà,PT,Sporting CP,DF,20,2002,2,0,101,"1,12",0,0,0,2,0,0
+412,Lautaro Martínez,IT,Inter ,FW,24,1997,13,12,997,"11,08",3,0,0,15,18,8
+413,Toni Martínez,PT,Porto ,FW,25,1997,7,0,113,"1,26",0,0,0,5,1,2
+414,Clinton Mata,BE,Club Brugge,DF,29,1992,3,2,158,"1,76",0,0,0,1,1,0
+415,Pape Matar Sarr,ENG,Tottenham ,MF,19,2002,1,1,90,"1,00",0,0,0,2,1,0
+416,Joël Matip,ENG,Liverpool ,DF,30,1991,4,2,243,"2,70",1,0,0,2,2,0
+417,Rabbi Matondo,SCT,Rangers ,"MF,FW",21,2000,5,0,97,"1,08",0,0,0,0,2,1
+418,Mykola Matviyenko,UA,Shakhtar ,DF,26,1996,6,6,540,"6,00",1,0,0,3,1,0
+419,Philipp Max,DE,Eint Frankfurt,DF,28,1993,2,1,113,"1,26",0,0,0,1,3,0
+420,Eric Maxim Choupo-Moting,DE,Bayern Munich,FW,33,1989,7,5,435,"4,83",0,0,0,4,4,5
+421,Noussair Mazraoui,DE,Bayern Munich,DF,24,1997,5,4,392,"4,36",2,0,0,10,3,0
+422,Kylian Mbappé,FR,Paris S-G,FW,23,1998,8,7,651,"7,23",0,0,0,2,16,9
+423,Chancel Mbemba,FR,Marseille ,DF,27,1994,5,5,406,"4,51",0,1,0,2,3,0
+424,James McCarthy,SCT,Celtic ,MF,31,1990,1,0,9,"0,10",0,0,0,0,0,0
+425,Allan McGregor,SCT,Rangers ,GK,40,1982,5,5,450,"5,00",0,0,0,0,0,0
+426,Callum McGregor,SCT,Celtic ,MF,29,1993,3,3,216,"2,40",0,0,0,1,1,0
+427,Weston McKennie,IT,Juventus ,MF,23,1998,5,4,360,"4,00",1,0,0,6,2,1
+428,Jon McLaughlin,SCT,Rangers ,GK,34,1987,1,1,90,"1,00",0,0,0,0,0,0
+429,Brandon Mechele,BE,Club Brugge,DF,29,1993,8,8,720,"8,00",0,0,0,1,1,0
+430,Bjorn Meijer,BE,Club Brugge,DF,19,2003,8,6,572,"6,36",1,0,0,5,1,1
+431,Raz Meir,IL,Maccabi Haifa,"DF,MF",25,1996,2,1,83,"0,92",0,0,0,0,0,0
+432,Arthur Melo,ENG,Liverpool ,MF,25,1996,1,0,14,"0,16",0,0,0,0,1,0
+433,Memphis,ES,Barcelona ,FW,28,1994,1,0,16,"0,18",0,0,0,0,0,0
+434,Sun Menachem,IL,Maccabi Haifa,DF,28,1993,4,0,59,"0,66",1,0,0,4,0,0
+435,Nuno Mendes,FR,Paris S-G,"DF,MF",20,2002,6,5,439,"4,88",0,0,0,6,9,2
+436,Edouard Mendy,ENG,Chelsea ,GK,30,1992,1,1,90,"1,00",0,0,0,0,0,0
+437,Ferland Mendy,ES,Real Madrid,DF,27,1995,5,4,347,"3,86",1,0,0,3,4,0
+438,Alex Meret,IT,Napoli ,GK,25,1997,10,10,900,"10,00",0,0,0,0,3,0
+439,Lionel Messi,FR,Paris S-G,"FW,MF",35,1987,7,7,613,"6,81",0,0,0,2,16,0
+440,Junior Messias,IT,Milan ,"FW,DF",31,1991,9,2,316,"3,51",0,0,0,5,2,2
+441,Thomas Meunier,DE,Dortmund ,DF,30,1991,4,4,352,"3,91",1,0,0,6,1,0
+442,Alexander Meyer,DE,Dortmund ,GK,31,1991,5,4,405,"4,50",0,0,0,0,0,0
+443,Simon Mignolet,BE,Club Brugge,GK,34,1988,8,8,720,"8,00",2,0,0,0,1,0
+444,Arkadiusz Milik,IT,Juventus ,FW,28,1994,5,3,338,"3,76",1,0,0,4,5,5
+445,Éder Militão,ES,Real Madrid,DF,24,1998,9,9,747,"8,30",3,0,0,14,9,0
+446,James Milner,ENG,Liverpool ,MF,36,1986,8,3,242,"2,69",1,0,0,7,4,0
+447,Kim Min-jae,IT,Napoli ,DF,25,1996,9,9,785,"8,72",3,0,0,9,1,0
+448,Rafa Mir,ES,Sevilla ,"MF,FW",25,1997,3,1,156,"1,73",1,0,0,2,1,0
+449,Fabio Miretti,IT,Juventus ,"MF,FW",18,2003,5,3,212,"2,36",2,0,0,4,3,0
+450,Josip Mišić,HR,Dinamo Zagreb,MF,28,1994,6,6,519,"5,77",1,0,0,13,4,0
+451,Henrikh Mkhitaryan,IT,Inter ,MF,33,1989,13,11,906,"10,07",2,0,0,14,12,2
+452,Anthony Modeste,DE,Dortmund ,FW,34,1988,7,4,339,"3,77",1,0,0,5,4,1
+453,Luka Modrić,ES,Real Madrid,MF,36,1985,10,9,743,"8,26",0,0,0,3,6,0
+454,Ali Mohamed,IL,Maccabi Haifa,MF,26,1995,5,5,356,"3,96",0,0,0,5,4,1
+455,Kudus Mohammed,NL,Ajax ,FW,21,2000,6,5,448,"4,98",1,0,0,12,4,8
+456,Sadegh Moharrami,HR,Dinamo Zagreb,"FW,DF",26,1996,6,5,408,"4,53",2,0,0,5,8,0
+457,Nahuel Molina,ES,Atlético Madrid,"DF,MF",24,1998,6,6,467,"5,19",0,0,0,5,4,1
+458,Gonzalo Montiel,ES,Sevilla ,DF,25,1997,4,2,226,"2,51",2,0,0,4,2,0
+459,Aaron Mooy,SCT,Celtic ,MF,31,1990,5,1,153,"1,70",0,0,0,1,0,0
+460,Álvaro Morata,ES,Atlético Madrid,FW,29,1992,5,4,294,"3,27",0,0,0,6,6,4
+461,Morato,PT,Benfica ,DF,21,2001,2,1,107,"1,19",0,0,0,1,1,0
+462,Alfredo Morelos,SCT,Rangers ,FW,26,1996,5,3,256,"2,84",1,0,0,4,9,0
+463,Hidemasa Morita,PT,Sporting CP,MF,27,1995,5,5,331,"3,68",2,0,0,6,2,0
+464,Jhon Mosquera,CZ,Viktoria Plzeň,"FW,MF",32,1990,5,5,431,"4,79",3,0,0,7,8,0
+465,Youssoufa Moukoko,DE,Dortmund ,"FW,MF",17,2004,6,2,242,"2,69",0,0,0,1,2,2
+466,Mason Mount,ENG,Chelsea ,MF,23,1999,9,5,441,"4,90",3,0,0,8,7,1
+467,Lucas Moura,ENG,Tottenham ,"FW,MF",29,1992,3,2,175,"1,94",0,0,0,1,1,4
+468,Mykhailo Mudryk,ENG,Chelsea ,"FW,DF",21,2001,2,1,94,"1,04",1,0,0,3,2,1
+469,Mykhailo Mudryk,UA,Shakhtar ,MF,21,2001,6,6,516,"5,73",2,0,0,5,9,5
+470,Paul Mukairu,DK,FC Copenhagen,FW,22,2000,3,0,44,"0,49",0,0,0,1,1,0
+471,Nordi Mukiele,FR,Paris S-G,"DF,MF",24,1997,4,1,111,"1,23",0,0,0,4,1,1
+472,Thomas Müller,DE,Bayern Munich,"MF,FW",32,1989,8,4,367,"4,08",0,0,0,6,3,2
+473,Petar Musa,PT,Benfica ,FW,24,1998,5,0,129,"1,43",1,0,0,3,0,0
+474,Jamal Musiala,DE,Bayern Munich,"MF,FW",19,2003,9,7,528,"5,87",0,0,0,6,9,0
+475,Bohdan Mykhaylychenko,UA,Shakhtar ,DF,25,1997,4,4,360,"4,00",1,0,0,5,2,0
+476,Obite N'Dicka,DE,Eint Frankfurt,DF,22,1999,8,8,720,"8,00",2,0,0,6,0,0
+477,Nacho,ES,Real Madrid,DF,32,1990,8,4,440,"4,89",0,0,0,5,6,1
+478,Jesús Navas,ES,Sevilla ,"DF,MF",36,1985,3,3,224,"2,49",0,0,0,0,3,2
+479,Flávio Nazinho,PT,Sporting CP,"DF,MF",19,2003,3,0,120,"1,33",0,0,0,0,1,0
+480,Tanguy Ndombele,IT,Napoli ,MF,25,1996,9,3,373,"4,14",0,0,0,2,9,0
+481,David Neres,PT,Benfica ,"FW,MF",25,1997,9,4,444,"4,93",2,0,0,8,8,3
+482,Luís Neto,PT,Sporting CP,DF,34,1988,1,0,39,"0,43",0,0,0,0,0,0
+483,Manuel Neuer,DE,Bayern Munich,GK,36,1986,3,3,270,"3,00",0,0,0,0,1,0
+484,João Neves,PT,Benfica ,"FW,MF",17,2004,3,0,29,"0,32",0,0,0,0,0,0
+485,Neymar,FR,Paris S-G,"MF,FW",30,1992,6,6,539,"5,99",4,0,0,8,19,1
+486,Tanguy Nianzou,ES,Sevilla ,DF,20,2002,2,2,180,"2,00",0,0,0,1,2,0
+487,Casper Nielsen,BE,Club Brugge,MF,28,1994,8,7,645,"7,17",2,0,0,8,5,0
+488,Saúl Ñíguez,ES,Atlético Madrid,"MF,DF",27,1994,5,4,281,"3,12",0,0,0,6,2,0
+489,Christopher Nkunku,DE,RB Leipzig,"MF,FW",24,1997,7,6,562,"6,24",1,0,0,4,6,4
+490,Hugo Novoa,DE,RB Leipzig,MF,19,2003,1,0,3,"0,03",0,0,0,0,0,0
+491,Darwin Núñez,ENG,Liverpool ,FW,23,1999,8,5,399,"4,43",1,0,0,11,2,5
+492,Antonio Nusa,BE,Club Brugge,FW,17,2005,4,0,57,"0,63",0,0,0,0,3,0
+493,Matt O'Riley,SCT,Celtic ,MF,21,2000,6,6,481,"5,34",2,0,0,9,3,0
+494,Jan Oblak,ES,Atlético Madrid,GK,29,1993,5,5,450,"5,00",0,0,0,0,0,0
+495,Lucas Ocampos,NL,Ajax ,FW,28,1994,2,0,17,"0,19",0,0,0,0,1,0
+496,Oleh Ocheretko,UA,Shakhtar ,MF,19,2003,1,0,14,"0,16",0,0,0,0,0,0
+497,Denis Odoi,BE,Club Brugge,"DF,MF",34,1988,7,6,523,"5,81",4,0,0,8,5,1
+498,Noah Okafor,AT,RB Salzburg,FW,22,2000,6,6,465,"5,17",1,0,0,5,4,0
+499,Mathías Olivera,IT,Napoli ,DF,24,1997,8,5,514,"5,71",1,0,0,6,7,0
+500,Dani Olmo,DE,RB Leipzig,"FW,MF",24,1998,3,0,65,"0,72",0,0,0,1,4,0
+501,André Onana,IT,Inter ,GK,26,1996,13,13,1,"0,01",2,0,0,0,2,0
+502,Raphael Onyedika,BE,Club Brugge,MF,21,2001,7,6,567,"6,30",3,0,0,10,8,0
+503,Willi Orban,DE,RB Leipzig,DF,29,1992,8,8,720,"8,00",0,0,0,4,7,0
+504,Divock Origi,IT,Milan ,FW,27,1995,8,0,154,"1,71",1,0,0,3,2,2
+505,Mislav Oršić,HR,Dinamo Zagreb,FW,29,1992,6,6,490,"5,44",1,0,0,2,5,1
+506,Stefan Ortega,ENG,Manchester City,GK,29,1992,2,2,180,"2,00",0,0,0,0,0,0
+507,Victor Osimhen,IT,Napoli ,FW,23,1998,6,5,421,"4,68",1,0,0,5,10,9
+508,Nicolás Otamendi,PT,Benfica ,DF,34,1988,9,9,793,"8,81",3,0,0,9,6,0
+509,Otávio,PT,Porto ,MF,27,1995,7,6,526,"5,84",3,1,1,14,14,0
+510,Alex Oxlade-Chamberlain,ENG,Liverpool ,MF,28,1993,1,0,18,"0,20",0,0,0,0,0,0
+511,Salih Özcan,DE,Dortmund ,MF,24,1998,7,7,541,"6,01",4,0,0,5,4,0
+512,Exequiel Palacios,DE,Leverkusen ,MF,23,1998,2,1,90,"1,00",2,0,0,4,3,0
+513,Cole Palmer,ENG,Manchester City,"MF,FW",20,2002,4,1,138,"1,53",0,0,0,1,0,0
+514,Antonios Papadopoulos,DE,Dortmund ,"MF,FW",22,1999,2,0,10,"0,11",0,0,0,0,0,0
+515,Leandro Paredes,IT,Juventus ,MF,28,1994,4,4,354,"3,93",1,0,0,4,4,0
+516,Felix Passlack,DE,Dortmund ,DF,24,1998,1,1,90,"1,00",0,0,0,0,3,0
+517,Remko Pasveer,NL,Ajax ,GK,38,1983,6,6,540,"6,00",0,0,0,0,0,0
+518,Paulinho,PT,Sporting CP,FW,29,1992,5,2,236,"2,62",1,0,0,4,9,1
+519,Paulinho,DE,Leverkusen ,FW,22,2000,2,0,49,"0,54",1,0,0,1,0,0
+520,Benjamin Pavard,DE,Bayern Munich,DF,26,1996,9,7,592,"6,58",4,1,1,15,6,0
+521,Strahinja Pavlović,AT,RB Salzburg,DF,21,2001,6,6,540,"6,00",2,0,0,8,4,0
+522,Dimitri Payet,FR,Marseille ,MF,35,1987,2,1,77,"0,86",0,0,0,0,1,0
+523,Pedri,ES,Barcelona ,"MF,FW",19,2002,5,5,401,"4,46",0,0,0,1,7,0
+524,Luca Pellegrini,DE,Eint Frankfurt,"DF,MF",23,1999,4,1,201,"2,23",1,0,0,3,0,1
+525,Iñaki Peña,ES,Barcelona ,GK,23,1999,1,1,90,"1,00",0,0,0,0,0,0
+526,Pepe,PT,Porto ,DF,39,1983,4,4,360,"4,00",0,0,0,0,5,1
+527,Pepê,PT,Porto ,"DF,FW",25,1997,8,8,685,"7,61",4,1,1,6,12,1
+528,Danilo Pereira,FR,Paris S-G,"DF,MF",30,1991,7,5,450,"5,00",0,0,0,1,3,2
+529,Dino Perić,HR,Dinamo Zagreb,DF,28,1994,6,6,540,"6,00",0,0,0,4,1,0
+530,Mattia Perin,IT,Juventus ,GK,29,1992,2,2,180,"2,00",1,0,0,0,0,0
+531,Ivan Perišić,ENG,Tottenham ,"DF,MF",33,1989,7,7,572,"6,36",0,0,0,4,3,1
+532,Luděk Pernica,CZ,Viktoria Plzeň,DF,32,1990,6,5,495,"5,50",2,0,0,4,0,0
+533,Bruno Petković,HR,Dinamo Zagreb,FW,27,1994,6,6,490,"5,44",1,0,0,10,18,0
+534,Ivan Petryak,UA,Shakhtar ,MF,28,1994,6,1,180,"2,00",0,0,0,2,1,1
+535,Kalvin Phillips,ENG,Manchester City,MF,26,1995,3,0,41,"0,46",0,0,0,0,0,0
+536,Frantzdy Pierrot,IL,Maccabi Haifa,FW,27,1995,6,6,481,"5,34",1,0,0,7,6,10
+537,Václav Pilař,CZ,Viktoria Plzeň,"FW,MF",33,1988,5,1,123,"1,37",0,0,0,4,2,1
+538,Rodrigo Pinho,PT,Benfica ,FW,31,1991,2,0,15,"0,17",0,0,0,1,1,1
+539,Gerard Piqué,ES,Barcelona ,DF,35,1987,4,2,258,"2,87",0,0,0,1,1,0
+540,Tommaso Pobega,IT,Milan ,MF,23,1999,8,0,163,"1,81",1,0,0,7,1,0
+541,Suf Podgoreanu,IL,Maccabi Haifa,DF,20,2002,1,0,12,"0,13",0,0,0,0,1,0
+542,Matteo Politano,IT,Napoli ,FW,28,1993,9,6,403,"4,48",2,0,0,4,5,1
+543,Pedro Porro,PT,Sporting CP,"DF,MF",22,1999,5,4,392,"4,36",1,0,0,4,7,0
+544,Pedro Porro,ENG,Tottenham ,DF,22,1999,1,0,38,"0,42",0,0,0,1,0,0
+545,Yussuf Poulsen,DE,RB Leipzig,"FW,MF",28,1994,5,0,72,"0,80",0,0,0,1,0,0
+546,Christian Pulisic,ENG,Chelsea ,"DF,FW",23,1998,5,1,113,"1,26",0,0,0,2,3,1
+547,Adrien Rabiot,IT,Juventus ,MF,27,1995,5,5,446,"4,96",0,0,0,10,5,1
+548,Ivan Rakitić,ES,Sevilla ,MF,34,1988,6,6,418,"4,64",0,0,0,2,6,0
+549,Gonçalo Ramos,PT,Benfica ,FW,21,2001,10,10,712,"7,91",2,0,0,11,10,2
+550,Sergio Ramos,FR,Paris S-G,DF,36,1986,8,8,720,"8,00",2,0,0,4,3,1
+551,Calvin Ramsay,ENG,Liverpool ,DF,19,2003,1,0,4,"0,04",0,0,0,0,1,0
+552,Raphinha,ES,Barcelona ,FW,25,1996,5,4,294,"3,27",0,0,0,5,2,1
+553,Giacomo Raspadori,IT,Napoli ,FW,22,2000,7,3,250,"2,78",1,0,0,4,5,1
+554,David Raum,DE,RB Leipzig,DF,24,1998,8,6,531,"5,90",0,0,0,6,3,2
+555,Ante Rebić,IT,Milan ,"FW,MF",28,1993,7,2,249,"2,77",0,0,0,9,1,0
+556,Matheus Reis,PT,Sporting CP,DF,27,1995,6,5,509,"5,66",2,0,0,6,5,0
+557,Karim Rekik,ES,Sevilla ,DF,27,1994,1,1,90,"1,00",0,0,0,0,0,0
+558,Devyne Rensch,NL,Ajax ,DF,19,2003,4,3,287,"3,19",1,0,0,2,1,0
+559,Marco Reus,DE,Dortmund ,"MF,FW",33,1989,3,3,262,"2,91",0,0,0,4,1,1
+560,Gio Reyna,DE,Dortmund ,"FW,MF",19,2002,6,3,383,"4,26",0,0,0,2,7,3
+561,Richarlison,ENG,Tottenham ,"MF,FW",25,1997,6,4,365,"4,06",0,0,0,5,9,3
+562,Stefan Ristovski,HR,Dinamo Zagreb,DF,30,1992,5,5,370,"4,11",1,0,0,2,7,0
+563,Mats Rits,BE,Club Brugge,MF,29,1993,1,0,17,"0,19",0,0,0,0,0,0
+564,Sergi Roberto,ES,Barcelona ,DF,30,1992,3,3,206,"2,29",1,0,0,0,0,0
+565,Andrew Robertson,ENG,Liverpool ,DF,28,1994,5,4,378,"4,20",0,0,0,0,0,0
+566,Rochinha,PT,Sporting CP,"MF,FW",27,1995,1,0,18,"0,20",0,0,0,0,1,0
+567,Sebastian Rode,DE,Eint Frankfurt,MF,31,1990,6,3,299,"3,32",0,0,0,5,5,0
+568,Rodri,ENG,Manchester City,MF,26,1996,12,11,995,"11,06",1,0,0,13,6,0
+569,Rodrygo,ES,Real Madrid,FW,21,2001,12,10,819,"9,10",0,0,0,4,12,2
+570,Cristian Romero,ENG,Tottenham ,DF,24,1998,7,7,598,"6,64",4,1,1,7,1,1
+571,Valentin Rongier,FR,Marseille ,MF,27,1994,6,5,471,"5,23",0,0,0,14,4,0
+572,Tom Rothe,DE,Dortmund ,DF,17,2004,3,1,61,"0,68",0,0,0,0,0,0
+573,Amir Rrahmani,IT,Napoli ,DF,28,1994,7,7,613,"6,81",2,0,0,7,2,0
+574,Antonio Rüdiger,ES,Real Madrid,DF,29,1993,10,6,678,"7,53",0,0,0,3,0,0
+575,Daniele Rugani,IT,Juventus ,DF,28,1994,1,1,90,"1,00",0,0,0,0,0,0
+576,Mário Rui,IT,Napoli ,DF,31,1991,6,5,386,"4,29",1,0,0,7,5,0
+577,Fabián Ruiz Peña,FR,Paris S-G,MF,26,1996,7,3,238,"2,64",1,0,0,4,4,0
+578,Nikita Rukavytsya,IL,Maccabi Haifa,"FW,MF",35,1987,6,0,47,"0,52",0,0,0,0,0,1
+579,Mathew Ryan,DK,FC Copenhagen,GK,30,1992,2,2,180,"2,00",0,0,0,0,0,0
+580,Julian Ryerson,DE,Dortmund ,DF,24,1997,1,0,18,"0,20",1,0,0,1,1,0
+581,Marcel Sabitzer,DE,Bayern Munich,MF,28,1994,6,3,280,"3,11",3,0,0,5,8,0
+582,Alexis Saelemaekers,IT,Milan ,"FW,DF",23,1999,8,4,371,"4,12",1,0,0,8,5,0
+583,Fashion Sakala,SCT,Rangers ,"FW,MF",25,1997,4,2,235,"2,61",0,0,0,2,6,2
+584,Mohamed Salah,ENG,Liverpool ,FW,30,1992,8,7,624,"6,93",0,0,0,2,3,4
+585,Kike Salas,ES,Sevilla ,DF,20,2002,2,2,180,"2,00",1,0,0,3,1,0
+586,Renato Sanches,FR,Paris S-G,MF,24,1997,3,1,141,"1,57",0,0,0,3,3,0
+587,Alexis Sánchez,FR,Marseille ,FW,33,1988,5,5,418,"4,64",0,0,0,7,10,15
+588,Davinson Sánchez,ENG,Tottenham ,DF,26,1996,2,0,21,"0,23",0,0,0,1,0,0
+589,Cisse Sandra,BE,Club Brugge,FW,18,2003,1,0,8,"0,09",0,0,0,0,0,0
+590,Alex Sandro,IT,Juventus ,DF,31,1991,4,2,239,"2,66",1,0,0,3,5,0
+591,James Sands,SCT,Rangers ,"DF,MF",22,2000,4,4,324,"3,60",2,1,1,8,2,0
+592,Leroy Sané,DE,Bayern Munich,"FW,MF",26,1996,8,7,552,"6,13",0,0,0,4,2,1
+593,Nuno Santos,PT,Sporting CP,"DF,MF",27,1995,6,5,295,"3,28",1,0,0,2,6,0
+594,Zaidu Sanusi,PT,Porto ,DF,25,1997,8,7,585,"6,50",0,0,0,3,1,1
+595,Alvaro Sanz,ES,Barcelona ,MF,21,2001,1,0,14,"0,16",0,0,0,0,0,0
+596,Pablo Sarabia,FR,Paris S-G,MF,30,1992,3,1,91,"1,01",1,0,0,1,1,0
+597,Stefan Savić,ES,Atlético Madrid,DF,31,1991,3,3,270,"3,00",3,0,0,2,1,0
+598,Patrik Schick,DE,Leverkusen ,FW,26,1996,5,5,446,"4,96",0,0,0,4,3,3
+599,Andreas Schjelderup,PT,Benfica ,FW,18,2004,1,0,2,"0,02",0,0,0,0,0,0
+600,Xaver Schlager,DE,RB Leipzig,MF,24,1997,7,7,583,"6,48",1,0,0,9,3,0
+601,Nico Schlotterbeck,DE,Dortmund ,DF,22,1999,8,6,561,"6,23",0,0,0,1,6,0
+602,Abdoulaye Seck,IL,Maccabi Haifa,DF,30,1992,6,4,397,"4,41",2,0,0,3,1,0
+603,Nicolas Seiwald,AT,RB Salzburg,MF,21,2001,6,6,540,"6,00",0,0,0,4,2,0
+604,Benjamin Šeško,AT,RB Salzburg,FW,19,2003,6,3,330,"3,67",0,0,0,5,3,2
+605,Ryan Sessegnon,ENG,Tottenham ,"MF,DF",22,2000,3,2,155,"1,72",1,0,0,6,3,2
+606,Maryan Shved,UA,Shakhtar ,MF,25,1997,3,3,187,"2,08",0,0,0,4,2,0
+607,Danylo Sikan,UA,Shakhtar ,FW,21,2001,4,0,104,"1,16",1,0,0,4,1,0
+608,André Silva,DE,RB Leipzig,FW,26,1995,8,6,533,"5,92",0,0,0,6,6,6
+609,António Silva,PT,Benfica ,DF,18,2003,10,10,894,"9,93",1,0,0,6,2,0
+610,Bernardo Silva,ENG,Manchester City,"FW,MF",27,1994,13,9,911,"10,12",2,0,0,19,13,1
+611,Rafa Silva,PT,Benfica ,MF,29,1993,10,10,819,"9,10",1,0,0,3,19,3
+612,Thiago Silva,ENG,Chelsea ,DF,37,1984,8,7,640,"7,11",2,0,0,5,6,0
+613,Mohamed Simakan,DE,RB Leipzig,DF,22,2000,7,6,511,"5,68",1,0,0,6,16,0
+614,Giovanni Simeone,IT,Napoli ,FW,27,1995,7,2,263,"2,92",0,0,0,3,4,4
+615,Roko Simic,AT,RB Salzburg,FW,18,2003,2,0,18,"0,20",0,0,0,2,0,0
+616,Oliver Skipp,ENG,Tottenham ,MF,21,2000,4,2,211,"2,34",1,0,0,4,3,0
+617,Leo Skiri Østigård,IT,Napoli ,DF,22,1999,3,2,197,"2,19",0,0,0,0,2,1
+618,Andreas Skov Olsen,BE,Club Brugge,"FW,MF",22,1999,5,4,295,"3,28",0,0,0,0,3,2
+619,Milan Škriniar,IT,Inter ,DF,27,1995,8,6,536,"5,96",0,0,0,6,2,0
+620,Hrvoje Smolčić,DE,Eint Frankfurt,DF,21,2000,3,1,122,"1,36",2,0,0,4,0,0
+621,Eduard Sobol,BE,Club Brugge,"FW,DF",27,1995,4,1,109,"1,21",1,0,0,1,0,1
+622,Carlos Soler,FR,Paris S-G,MF,25,1997,6,2,155,"1,72",0,0,0,3,3,0
+623,Oumar Solet,AT,RB Salzburg,DF,22,2000,4,4,266,"2,96",0,0,0,4,1,0
+624,Yann Sommer,DE,Bayern Munich,GK,33,1988,4,4,360,"4,00",0,0,0,0,1,0
+625,Matìas Soulé,IT,Juventus ,"MF,FW",19,2003,3,0,44,"0,49",0,0,0,0,3,0
+626,Djibril Sow,DE,Eint Frankfurt,MF,25,1997,8,8,720,"8,00",1,0,0,8,14,0
+627,Kamal Sowah,BE,Club Brugge,"FW,MF",22,2000,7,7,591,"6,57",4,1,1,4,3,3
+628,Dario Špikić,HR,Dinamo Zagreb,"FW,DF",23,1999,6,1,167,"1,86",0,0,0,1,5,0
+629,Jorne Spileers,BE,Club Brugge,DF,17,2005,1,0,2,"0,02",0,0,0,0,0,0
+630,Jerry St. Juste,PT,Sporting CP,DF,25,1996,4,3,189,"2,10",1,0,0,4,5,0
+631,Marko Stamenic,DK,FC Copenhagen,MF,20,2002,3,3,269,"2,99",3,0,0,9,1,0
+632,Jindřich Staněk,CZ,Viktoria Plzeň,GK,26,1996,5,5,450,"5,00",0,0,0,0,0,0
+633,Josip Stanišić,DE,Bayern Munich,DF,22,2000,8,3,349,"3,88",2,0,0,6,2,0
+634,Carl Starfelt,SCT,Celtic ,DF,27,1995,1,1,90,"1,00",0,0,0,1,0,0
+635,Orri Steinn Óskarsson,DK,FC Copenhagen,"MF,FW",17,2004,2,0,22,"0,24",0,0,0,1,0,0
+636,Taras Stepanenko,UA,Shakhtar ,MF,32,1989,6,6,532,"5,91",1,0,0,6,2,0
+637,Raheem Sterling,ENG,Chelsea ,"FW,MF",27,1994,9,8,630,"7,00",1,0,0,15,7,7
+638,John Stones,ENG,Manchester City,"MF,DF",28,1994,8,8,684,"7,60",0,0,0,2,3,0
+639,Luka Sučić,AT,RB Salzburg,MF,19,2002,5,5,398,"4,42",2,0,0,4,1,0
+640,Heorhii Sudakov,UA,Shakhtar ,MF,19,2002,6,6,480,"5,33",0,0,0,3,5,0
+641,Niklas Süle,DE,Dortmund ,DF,26,1995,8,7,675,"7,50",2,0,0,4,2,0
+642,Daniel Sundgren,IL,Maccabi Haifa,DF,31,1990,4,4,324,"3,60",0,0,0,1,3,0
+643,Suso,ES,Sevilla ,"FW,MF",28,1993,6,3,237,"2,63",0,0,0,2,6,1
+644,Josip Šutalo,HR,Dinamo Zagreb,DF,22,2000,6,6,540,"6,00",0,0,0,2,4,0
+645,Jan Sýkora,CZ,Viktoria Plzeň,"FW,DF",28,1993,2,2,148,"1,64",1,0,0,3,2,1
+646,Abakar Sylla,BE,Club Brugge,DF,19,2002,6,6,492,"5,47",4,0,0,10,1,0
+647,Wojciech Szczęsny,IT,Juventus ,GK,32,1990,4,4,360,"4,00",0,0,0,0,0,0
+648,Dominik Szoboszlai,DE,RB Leipzig,FW,21,2000,8,8,653,"7,26",0,0,0,7,7,1
+649,Christian Sørensen,DK,FC Copenhagen,"DF,MF",29,1992,5,1,102,"1,13",1,0,0,2,2,0
+650,Dušan Tadić,NL,Ajax ,FW,33,1988,5,5,432,"4,80",2,1,1,9,6,2
+651,Jonathan Tah,DE,Leverkusen ,DF,26,1996,6,5,481,"5,34",1,0,0,5,0,1
+652,Japhet Tanganga,ENG,Tottenham ,DF,23,1999,1,0,18,"0,20",0,0,0,0,0,0
+653,Edmond Tapsoba,DE,Leverkusen ,DF,23,1999,5,4,349,"3,88",0,0,0,3,2,0
+654,Mehdi Taremi,PT,Porto ,FW,30,1992,7,7,611,"6,79",2,1,1,9,11,2
+655,Ciprian Tătărușanu,IT,Milan ,GK,36,1986,5,5,450,"5,00",0,0,0,0,1,0
+656,Nuno Tavares,FR,Marseille ,DF,22,2000,6,6,540,"6,00",1,0,0,5,14,5
+657,James Tavernier,SCT,Rangers ,DF,30,1991,6,6,486,"5,40",1,0,0,5,1,0
+658,Greg Taylor,SCT,Celtic ,DF,24,1997,6,6,540,"6,00",0,0,0,1,6,0
+659,Kenneth Taylor,NL,Ajax ,MF,20,2002,6,5,417,"4,63",2,0,0,7,1,0
+660,Lucas Taylor,UA,Shakhtar ,DF,27,1995,5,3,312,"3,47",1,0,0,5,4,0
+661,Mavis Tchibota,IL,Maccabi Haifa,FW,26,1996,4,1,93,"1,03",1,0,0,4,2,0
+662,Aurélien Tchouaméni,ES,Real Madrid,MF,22,2000,10,5,432,"4,80",0,0,0,5,5,0
+663,Mathys Tel,DE,Bayern Munich,FW,17,2005,5,0,145,"1,61",0,0,0,0,1,1
+664,Alex Telles,ES,Sevilla ,"DF,FW",29,1992,6,4,391,"4,34",0,0,0,3,7,0
+665,Marc-André ter Stegen,ES,Barcelona ,GK,30,1992,5,5,450,"5,00",0,0,0,0,0,0
+666,Kévin Théophile-Catherine,HR,Dinamo Zagreb,DF,32,1989,1,1,75,"0,83",0,0,0,1,0,0
+667,Malick Thiaw,IT,Milan ,DF,20,2001,4,3,275,"3,06",2,0,0,8,3,0
+668,Mohamed Tijani,CZ,Viktoria Plzeň,DF,25,1997,3,2,168,"1,87",0,0,0,1,1,0
+669,Malik Tillman,SCT,Rangers ,MF,20,2002,5,4,244,"2,71",0,0,0,1,5,0
+670,Jurriën Timber,NL,Ajax ,DF,21,2001,6,6,529,"5,88",2,0,0,11,5,1
+671,Fikayo Tomori,IT,Milan ,DF,24,1997,10,10,827,"9,19",4,1,0,14,2,0
+672,Sandro Tonali,IT,Milan ,MF,22,2000,12,12,1,"0,01",3,0,0,13,18,2
+673,Pablo Torre,ES,Barcelona ,"MF,FW",19,2003,3,1,95,"1,06",1,0,0,3,1,0
+674,Ferrán Torres,ES,Barcelona ,"FW,MF",22,2000,5,1,188,"2,09",1,0,0,2,2,1
+675,Andriy Totovytskyi,UA,Shakhtar ,MF,29,1993,1,0,17,"0,19",0,0,0,0,0,0
+676,Kevin Trapp,DE,Eint Frankfurt,GK,32,1990,8,8,720,"8,00",0,0,0,0,1,0
+677,Francisco Trincão,PT,Sporting CP,"MF,FW",22,1999,6,5,386,"4,29",0,0,0,2,3,1
+678,Anatolii Trubin,UA,Shakhtar ,GK,20,2001,6,6,540,"6,00",1,0,0,0,0,0
+679,Kostas Tsimikas,ENG,Liverpool ,DF,26,1996,6,4,342,"3,80",1,0,0,6,8,0
+680,David Turnbull,SCT,Celtic ,MF,23,1999,5,0,103,"1,14",0,0,0,1,0,0
+681,Tuta,DE,Eint Frankfurt,DF,23,1999,7,7,599,"6,66",2,1,1,6,1,0
+682,Marián Tvrdoň,CZ,Viktoria Plzeň,GK,27,1994,1,1,90,"1,00",0,0,0,0,0,0
+683,Manuel Ugarte Ribeiro,PT,Sporting CP,MF,21,2001,6,6,467,"5,19",2,0,0,16,11,0
+684,Andreas Ulmer,AT,RB Salzburg,DF,36,1985,6,4,375,"4,17",1,0,0,4,2,0
+685,Sven Ulreich,DE,Bayern Munich,GK,33,1988,3,3,270,"3,00",0,0,0,0,0,0
+686,Cengiz Ünder,FR,Marseille ,MF,25,1997,6,1,173,"1,92",1,0,0,1,0,1
+687,Dayot Upamecano,DE,Bayern Munich,DF,23,1998,10,9,713,"7,92",2,0,0,7,1,0
+688,Mateus Uribe,PT,Porto ,MF,31,1991,7,7,610,"6,78",3,0,0,14,2,0
+689,Jesús Vallejo,ES,Real Madrid,DF,25,1997,1,0,18,"0,20",0,0,0,0,0,0
+690,Federico Valverde,ES,Real Madrid,"MF,FW",24,1998,11,11,967,"10,74",0,0,0,10,5,1
+691,Virgil van Dijk,ENG,Liverpool ,DF,31,1991,8,8,720,"8,00",1,0,0,6,0,0
+692,Hans Vanaken,BE,Club Brugge,MF,29,1992,8,8,703,"7,81",1,0,0,7,9,0
+693,Denis Vavro,DK,FC Copenhagen,DF,26,1996,4,4,360,"4,00",1,0,0,2,1,0
+694,Lucas Vázquez,ES,Real Madrid,DF,31,1991,5,2,202,"2,24",1,0,0,3,4,0
+695,Jordan Veretout,FR,Marseille ,MF,29,1993,6,6,485,"5,39",2,0,0,9,5,1
+696,Lucas Veríssimo,PT,Benfica ,DF,27,1995,2,0,6,"0,07",0,0,0,1,0,0
+697,Gabriel Veron,PT,Porto ,"MF,FW",19,2002,3,0,47,"0,52",0,0,0,1,0,0
+698,Marco Verratti,FR,Paris S-G,MF,29,1992,7,7,623,"6,92",4,0,0,10,16,0
+699,Vitinha,FR,Paris S-G,MF,22,2000,8,7,584,"6,49",0,0,0,5,7,0
+700,Odisseas Vlachodimos,PT,Benfica ,GK,28,1994,10,10,900,"10,00",0,0,0,0,0,0
+701,Dušan Vlahović,IT,Juventus ,FW,22,2000,5,5,411,"4,57",0,0,0,4,4,4
+702,Adam Vlkanova,CZ,Viktoria Plzeň,MF,27,1994,6,6,458,"5,09",0,0,0,6,9,1
+703,Stefan de Vrij,IT,Inter ,DF,30,1992,7,3,299,"3,32",1,0,0,4,0,0
+704,Kyle Walker,ENG,Manchester City,"DF,FW",32,1990,5,3,282,"3,13",0,0,0,2,1,1
+705,Paul Wanner,DE,Bayern Munich,"DF,FW",16,2005,2,0,36,"0,40",0,0,0,1,0,0
+706,Stephen Welsh,SCT,Celtic ,DF,22,2000,1,1,90,"1,00",0,0,0,1,0,0
+707,Wendell,PT,Porto ,DF,29,1993,6,1,143,"1,59",0,0,0,2,4,0
+708,Timo Werner,DE,RB Leipzig,FW,26,1996,8,7,500,"5,56",1,0,0,2,2,5
+709,Owen Wijndal,NL,Ajax ,DF,22,1999,2,1,76,"0,84",0,0,0,2,0,0
+710,Josh Wilson-Esbrand,ENG,Manchester City,DF,19,2002,2,0,46,"0,51",0,0,0,0,1,0
+711,Axel Witsel,ES,Atlético Madrid,"DF,MF",33,1989,6,5,462,"5,13",0,0,0,2,3,0
+712,Maximilian Wöber,AT,RB Salzburg,DF,24,1998,3,2,165,"1,83",0,0,0,3,0,0
+713,Marius Wolf,DE,Dortmund ,DF,27,1995,4,2,176,"1,96",1,0,0,4,1,0
+714,Scott Wright,SCT,Rangers ,"FW,MF",24,1997,4,2,136,"1,51",0,0,0,2,1,3
+715,Roman Yaremchuk,BE,Club Brugge,FW,26,1995,4,1,112,"1,24",1,0,0,1,0,0
+716,Rıdvan Yılmaz,SCT,Rangers ,DF,21,2001,1,1,90,"1,00",0,0,0,0,0,0
+717,Warren Zaire-Emery,FR,Paris S-G,MF,16,2006,3,1,83,"0,92",0,0,0,0,2,0
+718,Denis Zakaria,ENG,Chelsea ,MF,25,1996,2,1,74,"0,82",0,0,0,1,3,0
+719,Andre-Frank Zambo Anguissa,IT,Napoli ,MF,26,1995,8,8,650,"7,22",2,1,1,17,16,0
+720,Alessandro Zanoli,IT,Napoli ,DF,21,2000,2,0,12,"0,13",0,0,0,0,0,0
+721,Zeca,DK,FC Copenhagen,MF,33,1988,2,2,161,"1,79",0,0,0,4,0,0
+722,Alessio Zerbin,IT,Napoli ,FW,23,1999,3,0,56,"0,62",0,0,0,0,0,0
+723,Piotr Zieliński,IT,Napoli ,MF,28,1994,10,8,619,"6,88",1,0,0,3,12,0
+724,Hakim Ziyech,ENG,Chelsea ,"FW,MF",29,1993,4,1,148,"1,64",1,0,0,3,3,1
+725,Oleksandr Zubkov,UA,Shakhtar ,"FW,MF",25,1996,5,5,365,"4,06",1,0,0,4,7,0
+726,Neven Đurasek,UA,Shakhtar ,MF,23,1998,5,0,91,"1,01",1,0,0,1,0,0
+727,Jota,SCT,Celtic ,FW,23,1999,4,3,285,"3,17",0,0,0,3,2,2
