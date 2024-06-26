@@ -1,0 +1,187 @@
+"ID";"Jugador";"Pais";"Equipo";"Posicion";"Edad";"Nacimiento";"Partidos_jugados";"Partidos_titular";"Minutos_totales";"X90s";"Tarjetas_amarillas";"Tarjetas_rojas";"Segundas_tarjetas_amarillas";"Faltas_comprometidas";"Faltas_pitadas";"Fuera_de_juego"
+4;"Francesco Acerbi";"IT";"Inter ";"DF";34;1988;12;10;921;"10,23";1;0;0;6;9;1
+11;"Manuel Akanji";"ENG";"Manchester City";"DF";27;1995;11;10;945;"10,50";2;0;0;9;5;0
+12;"Nathan Aké";"ENG";"Manchester City";"DF";27;1995;8;7;608;"6,76";1;0;0;5;1;0
+13;"David Alaba";"ES";"Real Madrid";"DF";30;1992;11;9;711;"7,90";0;0;0;3;0;0
+24;"Julián Álvarez";"ENG";"Manchester City";"FW";22;2000;10;4;474;"5,27";1;0;0;9;2;2
+30;"Henrique Araújo";"PT";"Benfica ";"FW";20;2002;1;0;9;"0,10";0;0;0;0;0;0
+34;"Kepa Arrizabalaga";"ENG";"Chelsea ";"GK";27;1994;9;9;810;"9,00";2;0;0;0;0;0
+36;"Marco Asensio";"ES";"Real Madrid";"FW,MF";26;1996;12;2;324;"3,60";0;0;0;0;3;0
+37;"Kristjan Asllani";"IT";"Inter ";"MF";20;2002;5;1;129;"1,43";0;0;0;1;2;0
+39;"Pierre-Emerick Aubameyang";"ENG";"Chelsea ";"FW";33;1989;6;6;403;"4,48";0;0;0;4;2;4
+41;"Fredrik Aursnes";"PT";"Benfica ";"FW,MF";26;1995;10;7;620;"6,89";0;0;0;6;2;2
+43;"César Azpilicueta";"ENG";"Chelsea ";"DF";32;1989;5;3;260;"2,89";0;0;0;4;4;0
+45;"Alexander Bah";"PT";"Benfica ";"DF";24;1997;8;8;654;"7,27";1;0;0;9;8;0
+51;"Fodé Ballo-Touré";"IT";"Milan ";"DF,MF";25;1997;4;1;135;"1,50";2;0;0;3;2;0
+54;"Nicolò Barella";"IT";"Inter ";"MF";25;1997;12;12;991;"11,01";3;0;0;17;13;3
+60;"Alessandro Bastoni";"IT";"Inter ";"DF";23;1999;12;12;983;"10,92";2;0;0;13;7;0
+63;"Raoul Bellanova";"IT";"Inter ";"DF,MF";22;2000;3;1;120;"1,33";0;0;0;0;1;0
+66;"Ismaël Bennacer";"IT";"Milan ";"MF";24;1997;10;9;585;"6,50";1;0;0;11;12;0
+68;"Karim Benzema";"ES";"Real Madrid";"FW";34;1987;10;9;744;"8,27";0;0;0;4;2;3
+91;"Armando Broja";"ENG";"Chelsea ";"FW";20;2001;5;0;116;"1,29";0;0;0;7;0;1
+92;"Marcelo Brozović";"IT";"Inter ";"MF";29;1992;9;5;549;"6,10";1;0;0;7;5;0
+100;"Davide Calabria";"IT";"Milan ";"DF";25;1996;6;6;497;"5,52";2;0;0;6;4;0
+101;"Hakan Çalhanoğlu";"IT";"Inter ";"MF";28;1994;12;9;804;"8,93";1;0;0;15;13;1
+102;"Eduardo Camavinga";"ES";"Real Madrid";"MF,DF";19;2002;11;8;721;"8,01";3;0;0;14;16;0
+104;"João Cancelo";"DE";"Bayern Munich";"DF";28;1994;4;2;123;"1,37";1;0;0;1;1;0
+105;"João Cancelo";"ENG";"Manchester City";"DF";28;1994;6;5;376;"4,18";1;0;0;5;3;2
+107;"Valentin Carboni";"IT";"Inter ";"FW";17;2005;1;0;15;"0,17";1;0;0;1;0;0
+113;"Dani Carvajal";"ES";"Real Madrid";"DF";30;1992;11;10;869;"9,66";3;0;0;10;10;1
+116;"Dani Ceballos";"ES";"Real Madrid";"MF";25;1996;7;0;86;"0,96";0;0;0;2;4;0
+119;"Trevoh Chalobah";"ENG";"Chelsea ";"DF";23;1999;6;4;439;"4,88";0;0;0;1;3;0
+123;"Ben Chilwell";"ENG";"Chelsea ";"DF,MF";25;1996;7;7;556;"6,18";1;1;0;10;11;2
+124;"Chiquinho";"PT";"Benfica ";"MF";27;1995;9;4;404;"4,49";0;0;0;3;7;1
+133;"Kingsley Coman";"DE";"Bayern Munich";"FW,DF";26;1996;7;7;533;"5,92";0;0;0;1;12;2
+139;"Joaquín Correa";"IT";"Inter ";"FW";27;1994;9;3;304;"3,38";0;0;0;3;4;3
+143;"Thibaut Courtois";"ES";"Real Madrid";"GK";30;1992;10;10;900;"10,00";0;0;0;0;0;0
+145;"Marc Cucurella";"ENG";"Chelsea ";"DF";24;1998;8;4;414;"4,60";2;0;0;6;6;2
+147;"Danilo D'Ambrosio";"IT";"Inter ";"DF";33;1988;6;1;161;"1,79";0;0;0;3;4;1
+151;"Matteo Darmian";"IT";"Inter ";"DF";32;1989;11;9;821;"9,12";1;0;0;10;4;1
+153;"Alphonso Davies";"DE";"Bayern Munich";"DF";21;2000;9;6;602;"6,69";1;0;0;4;4;1
+157;"Kevin De Bruyne";"ENG";"Manchester City";"MF";31;1991;10;9;716;"7,96";1;0;0;5;7;1
+158;"Charles De Ketelaere";"IT";"Milan ";"MF,FW";21;2001;6;3;234;"2,60";1;0;0;5;1;0
+165;"Sergiño Dest";"IT";"Milan ";"DF";21;2000;4;1;191;"2,12";0;0;0;2;1;1
+166;"Giovanni Di Lorenzo";"IT";"Napoli ";"DF";28;1993;10;10;888;"9,87";2;0;0;12;9;0
+170;"Rúben Dias";"ENG";"Manchester City";"DF";25;1997;12;11;1;"0,01";2;0;0;8;1;0
+171;"Brahim Díaz";"IT";"Milan ";"MF,FW";22;1999;10;8;602;"6,69";1;0;0;11;23;0
+175;"Federico Dimarco";"IT";"Inter ";"DF";24;1997;11;10;728;"8,09";2;0;0;7;9;1
+181;"Julian Draxler";"PT";"Benfica ";"MF";28;1993;3;0;32;"0,36";0;0;0;0;0;0
+183;"Denzel Dumfries";"IT";"Inter ";"DF";26;1996;12;10;885;"9,83";0;0;0;14;22;5
+184;"Edin Džeko";"IT";"Inter ";"FW";36;1986;13;11;824;"9,16";2;0;0;13;14;2
+185;"Ederson";"ENG";"Manchester City";"GK";28;1993;11;11;990;"11,00";2;0;0;0;1;0
+190;"Elif Elmas";"IT";"Napoli ";"FW,MF";22;1999;10;2;285;"3,17";1;0;0;5;5;0
+203;"João Félix";"ENG";"Chelsea ";"FW,MF";22;1999;4;3;244;"2,71";0;0;0;1;6;1
+206;"Enzo Fernández";"PT";"Benfica ";"MF";21;2001;5;5;427;"4,74";3;0;0;15;4;0
+207;"Enzo Fernández";"ENG";"Chelsea ";"MF";21;2001;4;4;332;"3,69";1;0;0;4;4;0
+211;"Phil Foden";"ENG";"Manchester City";"MF,FW";22;2000;8;3;384;"4,27";1;0;0;4;9;2
+212;"Wesley Fofana";"ENG";"Chelsea ";"DF";21;2000;5;5;397;"4,41";1;0;0;10;2;0
+222;"Matteo Gabbia";"IT";"Milan ";"DF";22;1999;4;2;211;"2,34";1;0;0;5;3;0
+223;"Gianluca Gaetano";"IT";"Napoli ";"MF";22;2000;3;0;31;"0,34";0;0;0;2;0;0
+224;"Roberto Gagliardini";"IT";"Inter ";"MF";28;1994;6;1;116;"1,29";1;0;0;6;3;0
+227;"Conor Gallagher";"ENG";"Chelsea ";"MF";22;2000;8;2;301;"3,34";2;0;0;5;6;0
+235;"Gilberto";"PT";"Benfica ";"DF";29;1993;5;2;201;"2,23";1;0;0;2;3;0
+236;"Olivier Giroud";"IT";"Milan ";"FW";35;1986;12;12;932;"10,36";1;0;0;12;8;9
+237;"Serge Gnabry";"DE";"Bayern Munich";"FW,MF";27;1995;8;3;343;"3,81";0;0;0;4;0;5
+242;"Sergio Gómez";"ENG";"Manchester City";"DF,MF";21;2000;5;4;305;"3,39";0;1;0;3;1;0
+243;"Diogo Gonçalves";"PT";"Benfica ";"FW,MF";25;1997;4;0;40;"0,44";0;0;0;2;2;0
+245;"Leon Goretzka";"DE";"Bayern Munich";"MF";27;1995;9;7;606;"6,73";1;0;0;12;0;0
+246;"Robin Gosens";"IT";"Inter ";"DF";28;1994;11;3;426;"4,73";1;0;0;7;3;0
+250;"Ryan Gravenberch";"DE";"Bayern Munich";"MF";20;2002;6;2;254;"2,82";0;0;0;7;3;0
+252;"Jack Grealish";"ENG";"Manchester City";"FW";26;1995;13;12;933;"10,37";1;0;0;12;32;0
+255;"Álex Grimaldo";"PT";"Benfica ";"DF";26;1995;10;10;900;"10,00";0;0;0;3;5;1
+258;"Gonçalo Guedes";"PT";"Benfica ";"FW,MF";25;1996;2;0;43;"0,48";0;0;0;0;1;2
+263;"İlkay Gündoğan";"ENG";"Manchester City";"MF";31;1990;13;12;994;"11,04";4;0;0;6;17;0
+265;"Erling Haaland";"ENG";"Manchester City";"FW";22;2000;11;11;841;"9,34";1;0;0;11;7;4
+276;"Kai Havertz";"ENG";"Chelsea ";"FW,MF";23;1999;10;7;619;"6,88";0;0;0;12;7;2
+277;"Eden Hazard";"ES";"Real Madrid";"FW,MF";31;1991;3;1;132;"1,47";0;0;0;0;2;0
+285;"Lucas Hernández";"DE";"Bayern Munich";"DF";26;1996;2;2;173;"1,92";0;0;0;1;3;0
+286;"Theo Hernández";"IT";"Milan ";"DF";24;1997;11;11;945;"10,50";2;0;0;13;23;2
+302;"Reece James";"ENG";"Chelsea ";"DF,MF";22;1999;8;8;691;"7,68";3;0;0;15;7;2
+309;"Juan Jesus";"IT";"Napoli ";"DF";31;1991;3;2;205;"2,28";2;0;0;4;0;0
+315;"Jorginho";"ENG";"Chelsea ";"MF";30;1991;6;4;418;"4,64";0;0;0;3;10;0
+317;"Vinicius Júnior";"ES";"Real Madrid";"FW";22;2000;12;11;972;"10,80";1;0;0;11;28;6
+321;"Pierre Kalulu";"IT";"Milan ";"DF";22;2000;10;8;751;"8,34";0;0;0;11;8;0
+328;"N'Golo Kanté";"ENG";"Chelsea ";"MF";31;1991;2;2;164;"1,82";0;0;0;3;0;0
+334;"Joshua Kimmich";"DE";"Bayern Munich";"MF";27;1995;9;9;810;"9,00";3;0;0;8;17;0
+337;"Simon Kjær";"IT";"Milan ";"DF";33;1989;6;6;508;"5,64";0;0;0;5;0;0
+355;"Kalidou Koulibaly";"ENG";"Chelsea ";"DF";31;1991;7;7;568;"6,31";2;0;0;8;4;2
+357;"Mateo Kovačić";"ENG";"Chelsea ";"MF";28;1994;8;8;621;"6,90";2;0;0;5;10;0
+359;"Toni Kroos";"ES";"Real Madrid";"MF";32;1990;12;10;842;"9,36";2;0;0;6;11;0
+360;"Rade Krunić";"IT";"Milan ";"MF,FW";28;1993;11;9;823;"9,14";4;0;0;7;10;0
+364;"Khvicha Kvaratskhelia";"IT";"Napoli ";"FW";21;2001;9;9;692;"7,69";0;0;0;4;8;0
+368;"Aymeric Laporte";"ENG";"Manchester City";"DF";28;1994;4;3;292;"3,24";1;0;0;3;1;0
+372;"Rafael Leão";"IT";"Milan ";"FW,MF";23;1999;11;11;907;"10,08";0;0;0;11;17;1
+378;"Rico Lewis";"ENG";"Manchester City";"DF";17;2004;2;1;119;"1,32";0;0;0;4;1;0
+379;"Matthijs de Ligt";"DE";"Bayern Munich";"DF";22;1999;7;7;614;"6,82";1;0;0;8;4;0
+386;"Stanislav Lobotka";"IT";"Napoli ";"MF";27;1994;10;10;873;"9,70";0;0;0;8;24;0
+388;"Ruben Loftus-Cheek";"ENG";"Chelsea ";"MF";26;1996;7;2;285;"3,17";0;0;0;2;8;0
+391;"Hirving Lozano";"IT";"Napoli ";"FW";27;1995;9;4;467;"5,19";0;0;0;7;7;3
+392;"Florentino Luís";"PT";"Benfica ";"MF";22;1999;10;10;859;"9,54";2;0;0;12;1;0
+393;"Romelu Lukaku";"IT";"Inter ";"FW";29;1993;8;0;185;"2,06";1;0;0;5;1;0
+395;"Andriy Lunin";"ES";"Real Madrid";"GK";23;1999;2;2;180;"2,00";0;0;0;0;0;0
+398;"Riyad Mahrez";"ENG";"Manchester City";"FW,MF";31;1991;9;6;506;"5,62";0;0;0;4;9;2
+399;"Mike Maignan";"IT";"Milan ";"GK";27;1995;7;7;630;"7,00";1;0;0;0;1;0
+402;"Sadio Mané";"DE";"Bayern Munich";"FW";30;1992;9;6;552;"6,13";0;0;0;11;9;9
+406;"Mariano";"ES";"Real Madrid";"FW";28;1993;1;0;6;"0,07";0;0;0;0;0;0
+408;"João Mário";"PT";"Benfica ";"FW";29;1993;10;10;861;"9,57";2;0;0;8;9;1
+412;"Lautaro Martínez";"IT";"Inter ";"FW";24;1997;13;12;997;"11,08";3;0;0;15;18;8
+420;"Eric Maxim Choupo-Moting";"DE";"Bayern Munich";"FW";33;1989;7;5;435;"4,83";0;0;0;4;4;5
+421;"Noussair Mazraoui";"DE";"Bayern Munich";"DF";24;1997;5;4;392;"4,36";2;0;0;10;3;0
+436;"Edouard Mendy";"ENG";"Chelsea ";"GK";30;1992;1;1;90;"1,00";0;0;0;0;0;0
+437;"Ferland Mendy";"ES";"Real Madrid";"DF";27;1995;5;4;347;"3,86";1;0;0;3;4;0
+438;"Alex Meret";"IT";"Napoli ";"GK";25;1997;10;10;900;"10,00";0;0;0;0;3;0
+440;"Junior Messias";"IT";"Milan ";"FW,DF";31;1991;9;2;316;"3,51";0;0;0;5;2;2
+445;"Éder Militão";"ES";"Real Madrid";"DF";24;1998;9;9;747;"8,30";3;0;0;14;9;0
+447;"Kim Min-jae";"IT";"Napoli ";"DF";25;1996;9;9;785;"8,72";3;0;0;9;1;0
+451;"Henrikh Mkhitaryan";"IT";"Inter ";"MF";33;1989;13;11;906;"10,07";2;0;0;14;12;2
+453;"Luka Modrić";"ES";"Real Madrid";"MF";36;1985;10;9;743;"8,26";0;0;0;3;6;0
+461;"Morato";"PT";"Benfica ";"DF";21;2001;2;1;107;"1,19";0;0;0;1;1;0
+466;"Mason Mount";"ENG";"Chelsea ";"MF";23;1999;9;5;441;"4,90";3;0;0;8;7;1
+468;"Mykhailo Mudryk";"ENG";"Chelsea ";"FW,DF";21;2001;2;1;94;"1,04";1;0;0;3;2;1
+472;"Thomas Müller";"DE";"Bayern Munich";"MF,FW";32;1989;8;4;367;"4,08";0;0;0;6;3;2
+473;"Petar Musa";"PT";"Benfica ";"FW";24;1998;5;0;129;"1,43";1;0;0;3;0;0
+474;"Jamal Musiala";"DE";"Bayern Munich";"MF,FW";19;2003;9;7;528;"5,87";0;0;0;6;9;0
+477;"Nacho";"ES";"Real Madrid";"DF";32;1990;8;4;440;"4,89";0;0;0;5;6;1
+480;"Tanguy Ndombele";"IT";"Napoli ";"MF";25;1996;9;3;373;"4,14";0;0;0;2;9;0
+481;"David Neres";"PT";"Benfica ";"FW,MF";25;1997;9;4;444;"4,93";2;0;0;8;8;3
+483;"Manuel Neuer";"DE";"Bayern Munich";"GK";36;1986;3;3;270;"3,00";0;0;0;0;1;0
+484;"João Neves";"PT";"Benfica ";"FW,MF";17;2004;3;0;29;"0,32";0;0;0;0;0;0
+499;"Mathías Olivera";"IT";"Napoli ";"DF";24;1997;8;5;514;"5,71";1;0;0;6;7;0
+501;"André Onana";"IT";"Inter ";"GK";26;1996;13;13;1;"0,01";2;0;0;0;2;0
+504;"Divock Origi";"IT";"Milan ";"FW";27;1995;8;0;154;"1,71";1;0;0;3;2;2
+506;"Stefan Ortega";"ENG";"Manchester City";"GK";29;1992;2;2;180;"2,00";0;0;0;0;0;0
+507;"Victor Osimhen";"IT";"Napoli ";"FW";23;1998;6;5;421;"4,68";1;0;0;5;10;9
+508;"Nicolás Otamendi";"PT";"Benfica ";"DF";34;1988;9;9;793;"8,81";3;0;0;9;6;0
+513;"Cole Palmer";"ENG";"Manchester City";"MF,FW";20;2002;4;1;138;"1,53";0;0;0;1;0;0
+520;"Benjamin Pavard";"DE";"Bayern Munich";"DF";26;1996;9;7;592;"6,58";4;1;1;15;6;0
+535;"Kalvin Phillips";"ENG";"Manchester City";"MF";26;1995;3;0;41;"0,46";0;0;0;0;0;0
+538;"Rodrigo Pinho";"PT";"Benfica ";"FW";31;1991;2;0;15;"0,17";0;0;0;1;1;1
+540;"Tommaso Pobega";"IT";"Milan ";"MF";23;1999;8;0;163;"1,81";1;0;0;7;1;0
+542;"Matteo Politano";"IT";"Napoli ";"FW";28;1993;9;6;403;"4,48";2;0;0;4;5;1
+546;"Christian Pulisic";"ENG";"Chelsea ";"DF,FW";23;1998;5;1;113;"1,26";0;0;0;2;3;1
+549;"Gonçalo Ramos";"PT";"Benfica ";"FW";21;2001;10;10;712;"7,91";2;0;0;11;10;2
+553;"Giacomo Raspadori";"IT";"Napoli ";"FW";22;2000;7;3;250;"2,78";1;0;0;4;5;1
+555;"Ante Rebić";"IT";"Milan ";"FW,MF";28;1993;7;2;249;"2,77";0;0;0;9;1;0
+568;"Rodri";"ENG";"Manchester City";"MF";26;1996;12;11;995;"11,06";1;0;0;13;6;0
+569;"Rodrygo";"ES";"Real Madrid";"FW";21;2001;12;10;819;"9,10";0;0;0;4;12;2
+573;"Amir Rrahmani";"IT";"Napoli ";"DF";28;1994;7;7;613;"6,81";2;0;0;7;2;0
+574;"Antonio Rüdiger";"ES";"Real Madrid";"DF";29;1993;10;6;678;"7,53";0;0;0;3;0;0
+576;"Mário Rui";"IT";"Napoli ";"DF";31;1991;6;5;386;"4,29";1;0;0;7;5;0
+581;"Marcel Sabitzer";"DE";"Bayern Munich";"MF";28;1994;6;3;280;"3,11";3;0;0;5;8;0
+582;"Alexis Saelemaekers";"IT";"Milan ";"FW,DF";23;1999;8;4;371;"4,12";1;0;0;8;5;0
+592;"Leroy Sané";"DE";"Bayern Munich";"FW,MF";26;1996;8;7;552;"6,13";0;0;0;4;2;1
+599;"Andreas Schjelderup";"PT";"Benfica ";"FW";18;2004;1;0;2;"0,02";0;0;0;0;0;0
+609;"António Silva";"PT";"Benfica ";"DF";18;2003;10;10;894;"9,93";1;0;0;6;2;0
+610;"Bernardo Silva";"ENG";"Manchester City";"FW,MF";27;1994;13;9;911;"10,12";2;0;0;19;13;1
+611;"Rafa Silva";"PT";"Benfica ";"MF";29;1993;10;10;819;"9,10";1;0;0;3;19;3
+612;"Thiago Silva";"ENG";"Chelsea ";"DF";37;1984;8;7;640;"7,11";2;0;0;5;6;0
+614;"Giovanni Simeone";"IT";"Napoli ";"FW";27;1995;7;2;263;"2,92";0;0;0;3;4;4
+617;"Leo Skiri Østigård";"IT";"Napoli ";"DF";22;1999;3;2;197;"2,19";0;0;0;0;2;1
+619;"Milan Škriniar";"IT";"Inter ";"DF";27;1995;8;6;536;"5,96";0;0;0;6;2;0
+624;"Yann Sommer";"DE";"Bayern Munich";"GK";33;1988;4;4;360;"4,00";0;0;0;0;1;0
+633;"Josip Stanišić";"DE";"Bayern Munich";"DF";22;2000;8;3;349;"3,88";2;0;0;6;2;0
+637;"Raheem Sterling";"ENG";"Chelsea ";"FW,MF";27;1994;9;8;630;"7,00";1;0;0;15;7;7
+638;"John Stones";"ENG";"Manchester City";"MF,DF";28;1994;8;8;684;"7,60";0;0;0;2;3;0
+655;"Ciprian Tătărușanu";"IT";"Milan ";"GK";36;1986;5;5;450;"5,00";0;0;0;0;1;0
+662;"Aurélien Tchouaméni";"ES";"Real Madrid";"MF";22;2000;10;5;432;"4,80";0;0;0;5;5;0
+663;"Mathys Tel";"DE";"Bayern Munich";"FW";17;2005;5;0;145;"1,61";0;0;0;0;1;1
+667;"Malick Thiaw";"IT";"Milan ";"DF";20;2001;4;3;275;"3,06";2;0;0;8;3;0
+671;"Fikayo Tomori";"IT";"Milan ";"DF";24;1997;10;10;827;"9,19";4;1;0;14;2;0
+672;"Sandro Tonali";"IT";"Milan ";"MF";22;2000;12;12;1;"0,01";3;0;0;13;18;2
+685;"Sven Ulreich";"DE";"Bayern Munich";"GK";33;1988;3;3;270;"3,00";0;0;0;0;0;0
+687;"Dayot Upamecano";"DE";"Bayern Munich";"DF";23;1998;10;9;713;"7,92";2;0;0;7;1;0
+689;"Jesús Vallejo";"ES";"Real Madrid";"DF";25;1997;1;0;18;"0,20";0;0;0;0;0;0
+690;"Federico Valverde";"ES";"Real Madrid";"MF,FW";24;1998;11;11;967;"10,74";0;0;0;10;5;1
+694;"Lucas Vázquez";"ES";"Real Madrid";"DF";31;1991;5;2;202;"2,24";1;0;0;3;4;0
+696;"Lucas Veríssimo";"PT";"Benfica ";"DF";27;1995;2;0;6;"0,07";0;0;0;1;0;0
+700;"Odisseas Vlachodimos";"PT";"Benfica ";"GK";28;1994;10;10;900;"10,00";0;0;0;0;0;0
+703;"Stefan de Vrij";"IT";"Inter ";"DF";30;1992;7;3;299;"3,32";1;0;0;4;0;0
+704;"Kyle Walker";"ENG";"Manchester City";"DF,FW";32;1990;5;3;282;"3,13";0;0;0;2;1;1
+705;"Paul Wanner";"DE";"Bayern Munich";"DF,FW";16;2005;2;0;36;"0,40";0;0;0;1;0;0
+710;"Josh Wilson-Esbrand";"ENG";"Manchester City";"DF";19;2002;2;0;46;"0,51";0;0;0;0;1;0
+718;"Denis Zakaria";"ENG";"Chelsea ";"MF";25;1996;2;1;74;"0,82";0;0;0;1;3;0
+719;"Andre-Frank Zambo Anguissa";"IT";"Napoli ";"MF";26;1995;8;8;650;"7,22";2;1;1;17;16;0
+720;"Alessandro Zanoli";"IT";"Napoli ";"DF";21;2000;2;0;12;"0,13";0;0;0;0;0;0
+722;"Alessio Zerbin";"IT";"Napoli ";"FW";23;1999;3;0;56;"0,62";0;0;0;0;0;0
+723;"Piotr Zieliński";"IT";"Napoli ";"MF";28;1994;10;8;619;"6,88";1;0;0;3;12;0
+724;"Hakim Ziyech";"ENG";"Chelsea ";"FW,MF";29;1993;4;1;148;"1,64";1;0;0;3;3;1
