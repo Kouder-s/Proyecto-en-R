@@ -1,0 +1,24 @@
+"ID";"Jugador";"Pais";"Equipo";"Posicion";"Edad";"Nacimiento";"Partidos_jugados";"Partidos_titular";"Minutos_totales";"X90s";"Tarjetas_amarillas";"Tarjetas_rojas";"Segundas_tarjetas_amarillas";"Faltas_comprometidas";"Faltas_pitadas";"Fuera_de_juego"
+11;"Manuel Akanji";"ENG";"Manchester City";"DF";27;1995;11;10;945;"10,50";2;0;0;9;5;0
+12;"Nathan Aké";"ENG";"Manchester City";"DF";27;1995;8;7;608;"6,76";1;0;0;5;1;0
+24;"Julián Álvarez";"ENG";"Manchester City";"FW";22;2000;10;4;474;"5,27";1;0;0;9;2;2
+105;"João Cancelo";"ENG";"Manchester City";"DF";28;1994;6;5;376;"4,18";1;0;0;5;3;2
+157;"Kevin De Bruyne";"ENG";"Manchester City";"MF";31;1991;10;9;716;"7,96";1;0;0;5;7;1
+170;"Rúben Dias";"ENG";"Manchester City";"DF";25;1997;12;11;1;"0,01";2;0;0;8;1;0
+185;"Ederson";"ENG";"Manchester City";"GK";28;1993;11;11;990;"11,00";2;0;0;0;1;0
+211;"Phil Foden";"ENG";"Manchester City";"MF,FW";22;2000;8;3;384;"4,27";1;0;0;4;9;2
+242;"Sergio Gómez";"ENG";"Manchester City";"DF,MF";21;2000;5;4;305;"3,39";0;1;0;3;1;0
+252;"Jack Grealish";"ENG";"Manchester City";"FW";26;1995;13;12;933;"10,37";1;0;0;12;32;0
+263;"İlkay Gündoğan";"ENG";"Manchester City";"MF";31;1990;13;12;994;"11,04";4;0;0;6;17;0
+265;"Erling Haaland";"ENG";"Manchester City";"FW";22;2000;11;11;841;"9,34";1;0;0;11;7;4
+368;"Aymeric Laporte";"ENG";"Manchester City";"DF";28;1994;4;3;292;"3,24";1;0;0;3;1;0
+378;"Rico Lewis";"ENG";"Manchester City";"DF";17;2004;2;1;119;"1,32";0;0;0;4;1;0
+398;"Riyad Mahrez";"ENG";"Manchester City";"FW,MF";31;1991;9;6;506;"5,62";0;0;0;4;9;2
+506;"Stefan Ortega";"ENG";"Manchester City";"GK";29;1992;2;2;180;"2,00";0;0;0;0;0;0
+513;"Cole Palmer";"ENG";"Manchester City";"MF,FW";20;2002;4;1;138;"1,53";0;0;0;1;0;0
+535;"Kalvin Phillips";"ENG";"Manchester City";"MF";26;1995;3;0;41;"0,46";0;0;0;0;0;0
+568;"Rodri";"ENG";"Manchester City";"MF";26;1996;12;11;995;"11,06";1;0;0;13;6;0
+610;"Bernardo Silva";"ENG";"Manchester City";"FW,MF";27;1994;13;9;911;"10,12";2;0;0;19;13;1
+638;"John Stones";"ENG";"Manchester City";"MF,DF";28;1994;8;8;684;"7,60";0;0;0;2;3;0
+704;"Kyle Walker";"ENG";"Manchester City";"DF,FW";32;1990;5;3;282;"3,13";0;0;0;2;1;1
+710;"Josh Wilson-Esbrand";"ENG";"Manchester City";"DF";19;2002;2;0;46;"0,51";0;0;0;0;1;0
