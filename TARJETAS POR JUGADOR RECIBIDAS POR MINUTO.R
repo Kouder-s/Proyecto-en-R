@@ -1,5 +1,5 @@
 #Cargamos e instalamos las librerias
-
+install.packages("tidyverse")
 install.packages("skimr")
 install.packages("ggplot2")
 install.packages("dplyr")
@@ -7,6 +7,7 @@ install.packages("dplyr")
 library(skimr)
 library(ggplot2)
 library(dplyr)
+library(tidyverse)
 
 #CARGAMOS LA BASE DE DATOS
 
@@ -154,3 +155,340 @@ RESULTADOSNAPOLI <- JUGADORESNAPOLI %>%
   mutate(tarjetas_por_minuto = tarjetas_recibidas / Minutos_totales) %>%
   filter(tarjetas_por_minuto > 0) %>%
   arrange(desc(tarjetas_por_minuto))
+
+# Calculamos la suma de todos los minutos totales y la suma de las tarjetas recibidas de cada equipo 
+
+suma_minutosBAYERN <- sum(RESULTADOSBAYERN$Minutos_totales)
+suma_tarjetasBAYERN <- sum(RESULTADOSBAYERN$Tarjetas_amarillas) + sum(RESULTADOSBAYERN$Tarjetas_rojas)
+
+suma_minutosBENFICA <- sum(RESULTADOSBENFICA$Minutos_totales)
+suma_tarjetasBENFICA <- sum(RESULTADOSBENFICA$Tarjetas_amarillas) + sum(RESULTADOSBENFICA$Tarjetas_rojas)
+
+suma_minutosCHELSEA <- sum(RESULTADOSCHELSEA$Minutos_totales)
+suma_tarjetasCHELSEA <- sum(RESULTADOSCHELSEA$Tarjetas_amarillas) + sum(RESULTADOSCHELSEA$Tarjetas_rojas)
+
+suma_minutosCITY <- sum(RESULTADOSCITY$Minutos_totales)
+suma_tarjetasCITY <- sum(RESULTADOSCITY$Tarjetas_amarillas) + sum(RESULTADOSCITY$Tarjetas_rojas)
+
+suma_minutosINTER <- sum(RESULTADOSINTER$Minutos_totales)
+suma_tarjetasINTER <- sum(RESULTADOSINTER$Tarjetas_amarillas) + sum(RESULTADOSINTER$Tarjetas_rojas)
+
+suma_minutosMADRID <- sum(RESULTADOSMADRID$Minutos_totales)
+suma_tarjetasMADRID <- sum(RESULTADOSMADRID$Tarjetas_amarillas) + sum(RESULTADOSMADRID$Tarjetas_rojas)
+
+suma_minutosMILAN <- sum(RESULTADOSMILAN$Minutos_totales)
+suma_tarjetasMILAN <- sum(RESULTADOSMILAN$Tarjetas_amarillas) + sum(RESULTADOSMILAN$Tarjetas_rojas)
+
+suma_minutosNAPOLI <- sum(RESULTADOSNAPOLI$Minutos_totales)
+suma_tarjetasNAPOLI <- sum(RESULTADOSNAPOLI$Tarjetas_amarillas) + sum(RESULTADOSNAPOLI$Tarjetas_rojas)
+
+
+# Calculamos el promedio por cada equipo
+
+promedio_tarjetas_por_minutoBAYERN <- suma_tarjetasBAYERN / suma_minutosBAYERN
+promedio_tarjetas_por_minutoBENFICA <- suma_tarjetasBENFICA / suma_minutosBENFICA
+promedio_tarjetas_por_minutoCHELSEA <- suma_tarjetasCHELSEA / suma_minutosCHELSEA
+promedio_tarjetas_por_minutoCITY <- suma_tarjetasCITY / suma_minutosCITY
+promedio_tarjetas_por_minutoINTER <- suma_tarjetasINTER / suma_minutosINTER
+promedio_tarjetas_por_minutoMADRID <- suma_tarjetasMADRID / suma_minutosMADRID
+promedio_tarjetas_por_minutoMILAN <- suma_tarjetasMILAN / suma_minutosMILAN
+promedio_tarjetas_por_minutoNAPOLI <- suma_tarjetasNAPOLI / suma_minutosNAPOLI
+
+# Agregamos una fila adicional a la base de datos RESULTADOS por equipos
+
+RESULTADOSBAYERN <- RESULTADOSBAYERN %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosBAYERN,
+    tarjetas_recibidas = suma_tarjetasBAYERN,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoBAYERN
+  )
+
+RESULTADOSBENFICA <- RESULTADOSBENFICA %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosBENFICA,
+    tarjetas_recibidas = suma_tarjetasBENFICA,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoBENFICA
+  )
+
+RESULTADOSCHELSEA <- RESULTADOSCHELSEA %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosCHELSEA,
+    tarjetas_recibidas = suma_tarjetasCHELSEA,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoCHELSEA
+  )
+
+RESULTADOSCITY <- RESULTADOSCITY %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosCITY,
+    tarjetas_recibidas = suma_tarjetasCITY,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoCITY
+  )
+
+RESULTADOSINTER <- RESULTADOSINTER %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosINTER,
+    tarjetas_recibidas = suma_tarjetasINTER,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoINTER
+  )
+
+RESULTADOSMADRID <- RESULTADOSMADRID %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosMADRID,
+    tarjetas_recibidas = suma_tarjetasMADRID,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoMADRID
+  )
+
+RESULTADOSMILAN <- RESULTADOSMILAN %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosMILAN,
+    tarjetas_recibidas = suma_tarjetasMILAN,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoMILAN
+  )
+
+RESULTADOSNAPOLI <- RESULTADOSNAPOLI %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutosNAPOLI,
+    tarjetas_recibidas = suma_tarjetasNAPOLI,
+    tarjetas_por_minuto = promedio_tarjetas_por_minutoNAPOLI
+  )
+
+# Tabla descriptiva 
+
+# BAYERN
+
+skim(RESULTADOSBAYERN)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSBAYERN, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSBAYERN, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+# Tabla descriptiva 
+
+# BENFICA
+
+skim(RESULTADOSBENFICA)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSBENFICA, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSBENFICA, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+# Tabla descriptiva 
+
+# CHELSEA
+
+skim(RESULTADOSCHELSEA)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSCHELSEA, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSCHELSEA, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+# Tabla descriptiva 
+
+#CITY
+
+skim(RESULTADOSCITY)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSCITY, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSCITY, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+# Tabla descriptiva 
+
+# INTER
+
+skim(RESULTADOSINTER)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSINTER, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSINTER, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+# Tabla descriptiva 
+
+# MADRID
+
+skim(RESULTADOSMADRID)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSMADRID, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSMADRID, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+# Tabla descriptiva 
+
+# MILAN
+
+skim(RESULTADOSMILAN)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSMILAN, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSMILAN, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+# Tabla descriptiva 
+
+# NAPOLI
+
+skim(RESULTADOSNAPOLI)
+
+#GRAFICOS 
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOSNAPOLI, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOSNAPOLI, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
+
+# Combinamos todos los resultados en una sola dataframe
+
+TODOS_RESULTADOS <- bind_rows(
+  RESULTADOSBAYERN, RESULTADOSBENFICA, RESULTADOSCHELSEA, 
+  RESULTADOSCITY, RESULTADOSINTER, RESULTADOSMADRID, 
+  RESULTADOSMILAN, RESULTADOSNAPOLI
+) %>% 
+  mutate(Equipo = c(rep("Bayern", nrow(RESULTADOSBAYERN)), 
+                    rep("Benfica", nrow(RESULTADOSBENFICA)), 
+                    rep("Chelsea", nrow(RESULTADOSCHELSEA)), 
+                    rep("City", nrow(RESULTADOSCITY)), 
+                    rep("Inter", nrow(RESULTADOSINTER)), 
+                    rep("Madrid", nrow(RESULTADOSMADRID)), 
+                    rep("Milan", nrow(RESULTADOSMILAN)), 
+                    rep("Napoli", nrow(RESULTADOSNAPOLI))))
+# Tabla descriptiva
+
+skim(TODOS_RESULTADOS)
+
+# Gráfico de barras: Promedio de tarjetas recibidas por minuto por equipo
+
+ggplot(TODOS_RESULTADOS, aes(x = Equipo, y = tarjetas_por_minuto)) + 
+  geom_col() + 
+  labs(x = "Equipo", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+# Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales por equipo
+
+ggplot(TODOS_RESULTADOS, aes(x = Minutos_totales, y = tarjetas_por_minuto, color = Equipo)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto", color = "Equipo") + 
+  theme_classic()
+
+# Gráfico de histograma: Distribución de tarjetas recibidas por minuto por equipo
+
+ggplot(TODOS_RESULTADOS, aes(x = tarjetas_por_minuto, fill = Equipo)) + 
+  geom_histogram(bins = 30, position = "dodge") + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia", fill = "Equipo") + 
+  theme_classic()
