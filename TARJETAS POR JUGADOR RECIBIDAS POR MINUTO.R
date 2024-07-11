@@ -1,3 +1,11 @@
+#Cargamos e instalamos las librerias
+
+install.packages("skimr")
+install.packages("ggplot2")
+install.packages("dplyr")
+
+library(skimr)
+library(ggplot2)
 library(dplyr)
 
 #CARGAMOS LA BASE DE DATOS
@@ -16,6 +24,48 @@ RESULTADOS <- BASEFINAL %>%
   mutate(tarjetas_por_minuto = tarjetas_recibidas / Minutos_totales) %>%
   filter(tarjetas_por_minuto > 0) %>%
   arrange(desc(tarjetas_por_minuto))
+
+# Calculamos la suma de todos los minutos totales y la suma de las tarjetas recibidas
+
+suma_minutos <- sum(RESULTADOS$Minutos_totales)
+suma_tarjetas <- sum(RESULTADOS$Tarjetas_amarillas) + sum(RESULTADOS$Tarjetas_rojas)
+
+# Calculamos el promedio
+
+promedio_tarjetas_por_minuto <- suma_tarjetas / suma_minutos
+
+# Agregamos una fila adicional a la base de datos RESULTADOS
+
+RESULTADOS <- RESULTADOS %>%
+  add_row(
+    Jugador = "Promedio",
+    Tarjetas_amarillas = NA,
+    Tarjetas_rojas = NA,
+    Minutos_totales = suma_minutos,
+    tarjetas_recibidas = suma_tarjetas,
+    tarjetas_por_minuto = promedio_tarjetas_por_minuto
+  )
+
+# Tabla descriptiva
+
+skim(RESULTADOS)
+
+#GRAFICOS
+
+#Gráfico de dispersión: Tarjetas recibidas por minuto vs Minutos totales
+
+ggplot(RESULTADOS, aes(x = Minutos_totales, y = tarjetas_por_minuto)) + 
+  geom_point() + 
+  labs(x = "Minutos totales", y = "Tarjetas recibidas por minuto") + 
+  theme_classic()
+
+#Gráfico de histograma: Distribución de tarjetas recibidas por minuto
+
+ggplot(RESULTADOS, aes(x = tarjetas_por_minuto)) + 
+  geom_histogram(bins = 30) + 
+  labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia") + 
+  theme_classic()
+
 
 #CARGAMOS LA BASE DE DATOS DE CADA EQUIPO
 
