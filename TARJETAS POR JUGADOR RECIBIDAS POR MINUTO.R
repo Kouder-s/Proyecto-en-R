@@ -492,3 +492,5 @@ ggplot(TODOS_RESULTADOS, aes(x = tarjetas_por_minuto, fill = Equipo)) +
   geom_histogram(bins = 30, position = "dodge") + 
   labs(x = "Tarjetas recibidas por minuto", y = "Frecuencia", fill = "Equipo") + 
   theme_classic()
+
+
