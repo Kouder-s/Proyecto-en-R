@@ -1,0 +1,55 @@
+#Instalamos los paquetes rstatix y tidyverse
+
+install.packages("rstatix")
+install.packages("tidyverse")
+install.packages("ggplot2")
+
+#Llamamos a las librerías "rstatix" y "tidyverse"
+
+library(rstatix)
+library(tidyverse)
+library(ggplot2)
+
+#Leemos la base de datos
+
+BASE.JUGADORES.TOTALES <- read.csv("BASE JUGADORES TOTALES.csv")
+
+#Tomamos las variables que vamos a trabajar y las generamos en un dataframe
+
+Solotarjetas <- select(BASE.JUGADORES.TOTALES, Equipo, Tarjetas_amarillas)
+
+aggregate(Tarjetas_amarillas ~ Tarjetas_amarillas, Solotarjetas, sum)
+
+#Convetimos las variables en vectores
+
+Equipos <- c("Bayern Munich","Benfica","Chelsea","Inter", "Manchester City", "Milan", "Napoli", "Real Madrid")
+Tarjetas_amarillas_equipos <- c(20,19,24,25,21,28,19,14)
+Tarjetas_amarillas_totales_equipos <- c(170,170,170,170,170,170,170,170)
+
+#Generamos el dataframe definitivo
+
+Solo_tarjetas_amarillas <- data.frame(Equipos, Tarjetas_amarillas_equipos, Tarjetas_amarillas_totales_equipos)
+
+#Calculamos la proporción de tarjetas amarillas por equipo 
+
+Solo_tarjetas_amarillas %>% 
+  group_by(Tarjetas_amarillas_equipos) %>% 
+  summarise(n= Tarjetas_amarillas_equipos) %>% 
+  mutate(proporción = n / 170, porciento = proporción*100)
+
+#Covertimos a vectores para generar un nuevo dataframe para las gráficas
+
+Equipo <- c("Bayern Munich","Benfica","Chelsea","Inter", "Manchester City", "Milan", "Napoli", "Real Madrid")
+Proporción_de_tarjetas_amarillas. <- c(11.28 ,11.2, 14.1, 14.7, 12.4, 16.5, 11.2, 8.24)
+
+#Generamos el nuevo dataframe para la gráfica de proporción de las tarjetas amarillas por equipos
+
+Proporción_tarjetas_amarillas <- data.frame(Equipo, Proporción_de_tarjetas_amarillas.)
+
+#Generamos el gráfico de barras de las proporciones
+
+ggplot(Proporción_Tarjetas_Amarillas, aes(x = "" , y = Proporción_de_tarjetas_amarillas., fill = Equipo)) +
+  geom_col(color = "black") +
+  geom_text(aes(label = Proporción_de_tarjetas_amarillas.),
+            position = position_stack(vjust = 0.5)) +
+  coord_polar(theta = "y") 
