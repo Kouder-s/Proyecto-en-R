@@ -12,7 +12,7 @@ library(ggplot2)
 
 #Leemos la base de datos
 
-BASE.JUGADORES.TOTALES <- read.csv("~/Respaldo 02-08-2020/Proyecto-en-R/BASE JUGADORES TOTALES.csv")
+BASE.JUGADORES.TOTALES <- read.csv("BASE JUGADORES TOTALES.csv")
 
 #Tomamos las variables que vamos a trabajar y las generamos en un dataframe
 
